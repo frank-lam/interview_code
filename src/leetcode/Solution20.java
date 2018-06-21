@@ -7,7 +7,6 @@ import java.util.Stack;
  * @date 2018-06-21 20:10
  */
 
-
 //20. 有效的括号 - LeetCode (中国)
 //https://leetcode-cn.com/problems/valid-parentheses/description/
 
