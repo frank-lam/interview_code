@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.code20;
 
 import java.util.Stack;
 
@@ -10,7 +10,7 @@ import java.util.Stack;
 //20. 有效的括号 - LeetCode (中国)
 //https://leetcode-cn.com/problems/valid-parentheses/description/
 
-public class Solution20 {
+public class Solution {
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
 
@@ -35,7 +35,7 @@ public class Solution20 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new Solution20().isValid("[[]]"));
-        System.out.println(new Solution20().isValid("[[]][["));
+        System.out.println(new Solution().isValid("[[]]"));
+        System.out.println(new Solution().isValid("[[]][["));
     }
 }

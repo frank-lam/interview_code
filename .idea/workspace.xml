@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways_Study.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways_Study.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Rand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Study.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/SortTestHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/code203/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/code203/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/code75/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/SizeOf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/Solution20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/code20/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,12 +32,21 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution20.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/Solution20.java">
+    <leaf>
+      <file leaf-file-name="QuickSort3Ways_Study.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways_Study.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort3Ways.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="60" selection-start-line="60" selection-end-line="61" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -32,9 +56,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>printArray</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +74,32 @@
       <list>
         <option value="$PROJECT_DIR$/src/alibaba/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Solution20.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/q/Solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/code/Solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/code203/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/code203/Solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/code20/Solution20.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/code20/Solution.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/sort_algorithm/quick_sort.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/quick_sort.java" />
+        <option value="$PROJECT_DIR$/src/utils/ObjectVisitor.java" />
+        <option value="$PROJECT_DIR$/src/utils/Sizer.java" />
+        <option value="$PROJECT_DIR$/src/utils/GraphTraverser.java" />
+        <option value="$PROJECT_DIR$/src/utils/FieldInfo.java" />
+        <option value="$PROJECT_DIR$/src/utils/ClassInfo.java" />
+        <option value="$PROJECT_DIR$/src/utils/Benchmark.java" />
+        <option value="$PROJECT_DIR$/src/utils/Size.java" />
+        <option value="$PROJECT_DIR$/src/utils/SizeOf.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/SortTestHelper.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Rand.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/code75/Solution.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Study.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways_Study.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways_Study.java" />
       </list>
     </option>
   </component>
@@ -62,11 +118,17 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,14 +145,27 @@
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="sort_algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sort_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="quick_sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sort_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="quick_sort" type="462c0819:PsiDirectoryNode" />
+              <item name="QuickSort.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -102,7 +177,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="data_structure.sort_algorithm.quick_sort" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,7 +196,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.QuickSort_Study">
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.sort_algorithm.quick_sort.QuickSort" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.sort_algorithm.quick_sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="QuickSort_Study" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.sort_algorithm.quick_sort.QuickSort_Study" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.sort_algorithm.quick_sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.code203.Solution" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.code203.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.code75.Solution" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.code75.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="alibaba.Solution" />
       <module name="interview_code" />
@@ -128,13 +252,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Solution20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Solution20" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.code20.Solution" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="leetcode.code20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,13 +305,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution20" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.QuickSort_Study" />
+      <item itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort_Study" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution20" />
       </list>
     </recent_temporary>
   </component>
@@ -202,12 +332,26 @@
       <option name="presentableId" value="Default" />
       <updated>1529582990599</updated>
       <workItem from="1529582994452" duration="998000" />
-      <workItem from="1529584163297" duration="12000" />
+      <workItem from="1529584163297" duration="1488000" />
+      <workItem from="1529725490111" duration="379000" />
+      <workItem from="1529729986946" duration="18000" />
+      <workItem from="1530008718471" duration="1239000" />
+      <workItem from="1530082032177" duration="1231000" />
+      <workItem from="1530370446911" duration="4272000" />
+      <workItem from="1530409962215" duration="8314000" />
     </task>
+    <task id="LOCAL-00001" summary="测试提交修改">
+      <created>1529584816771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529584816771</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1010000" />
+    <option name="totallyTimeSpent" value="17939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -215,28 +359,28 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.19068256" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21320346" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19826652" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,8 +389,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试提交修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交修改" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Solution20.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/code20/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
@@ -254,10 +402,241 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/alibaba/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Solution20.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/code203/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="562">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/code20.java" />
+    <entry file="file://$PROJECT_DIR$/src/datastructure/sort_algorithm/quick_sort.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/javafx-src.zip!/com/sun/glass/ui/Size.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/FieldInfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/utils/Benchmark.java" />
+    <entry file="file://$PROJECT_DIR$/src/utils/GraphTraverser.java" />
+    <entry file="file://$PROJECT_DIR$/src/utils/ClassInfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/utils/ObjectVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/utils/Sizer.java" />
+    <entry file="file://$PROJECT_DIR$/src/utils/SizeOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1294#1295#0" expanded="true" />
+            <element signature="e#1345#1346#0" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1468#1469#0" expanded="true" />
+            <element signature="e#2660#2661#0" expanded="true" />
+            <element signature="e#2691#2692#0" expanded="true" />
+            <element signature="e#4615#4616#0" expanded="true" />
+            <element signature="e#4656#4657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="551" column="39" lean-forward="true" selection-start-line="551" selection-start-column="39" selection-end-line="551" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="1389" column="23" selection-start-line="1389" selection-start-column="23" selection-end-line="1389" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/SecurityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="675" column="51" lean-forward="true" selection-start-line="675" selection-start-column="51" selection-end-line="675" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/security/util/SecurityConstants.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="37" column="79" selection-start-line="37" selection-start-column="79" selection-end-line="37" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/RuntimePermission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="365" column="11" selection-start-line="365" selection-start-column="11" selection-end-line="365" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/code203/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/SizeOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1294#1295#0" expanded="true" />
+            <element signature="e#1345#1346#0" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1468#1469#0" expanded="true" />
+            <element signature="e#2660#2661#0" expanded="true" />
+            <element signature="e#2691#2692#0" expanded="true" />
+            <element signature="e#4615#4616#0" expanded="true" />
+            <element signature="e#4656#4657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/com/sun/org/apache/bcel/internal/generic/SWAP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview_code.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/code20/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/code75/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Rand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="26" selection-start-line="16" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/SortTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways_Study.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="67" selection-start-line="67" selection-end-line="86" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Study.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-320">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="60" selection-start-line="60" selection-end-line="61" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways_Study.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
