@@ -1,13 +1,18 @@
-package leetcode.code203;
+package leetcode.code203_remove_linked_list_elements;
 
 /**
  * @author Created By Frank
  * @date 2018-06-26 18:26
  */
 
+/**
+ * 删除链表中的节点 - LeetCode (中国)
+ * https://leetcode-cn.com/problems/remove-linked-list-elements/description/
+ */
+
+
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
-
         while (head != null && head.val == val)
             head = head.next;
 
@@ -23,7 +28,6 @@ class Solution {
         }
 
         return head;
-
 
     }
 

@@ -1,4 +1,4 @@
-package leetcode.code203;
+package leetcode.code203_remove_linked_list_elements;
 
 /**
  * @author Created By Frank

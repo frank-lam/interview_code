@@ -1,4 +1,4 @@
-package leetcode.code20;
+package leetcode.code20_valid_parentheses;
 
 import java.util.Stack;
 

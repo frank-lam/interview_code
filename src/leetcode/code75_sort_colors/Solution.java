@@ -1,4 +1,4 @@
-package leetcode.code75;
+package leetcode.code75_sort_colors;
 
 
 import data_structure.sort_algorithm.quick_sort.SortTestHelper;
