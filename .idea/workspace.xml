@@ -4,17 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/leetcode/code405_convert_a_number_to_hexadecimal/Solution.java" line="31" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code204_count_primes/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code204_count_primes/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code405_convert_a_number_to_hexadecimal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code415_add_strings/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code67_add_binary/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/learn/trie_learn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/learn/trie_learn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learn/trie_learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learn/trie_learn.java" afterDir="false" />
-    </list>
+    <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,30 +17,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/code67_add_binary/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-              <folding>
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/code415_add_strings/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -166,20 +133,6 @@
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="code67_add_binary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="code415_add_strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -389,7 +342,7 @@
       <workItem from="1530672466967" duration="7722000" />
       <workItem from="1530845125573" duration="12612000" />
       <workItem from="1530931141616" duration="4700000" />
-      <workItem from="1530951261554" duration="3937000" />
+      <workItem from="1530951261554" duration="4186000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -402,11 +355,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52769000" />
+    <option name="totallyTimeSpent" value="53018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -416,10 +368,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.19068256" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.19068256" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23614073" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23614073" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
