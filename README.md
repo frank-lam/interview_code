@@ -15,6 +15,14 @@
 
 
 
+| Leetcode                                                     | 难度 | 完成时间 |
+| ------------------------------------------------------------ | ---- | -------- |
+| [7.反转整数](https://leetcode-cn.com/problems/reverse-integer/description/) | 简单 | 7/10     |
+|                                                              |      |          |
+|                                                              |      |          |
+
+
+
 ## Github
 
 [frank-lam/interview_code: 2019校招面试代码记录](https://github.com/frank-lam/interview_code)
