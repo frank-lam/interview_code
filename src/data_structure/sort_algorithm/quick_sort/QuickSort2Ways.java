@@ -1,5 +1,7 @@
 package data_structure.sort_algorithm.quick_sort;
 
+import utils.PrintHelper;
+
 public class QuickSort2Ways {
 
     // 我们的算法类不允许产生任何实例
@@ -10,7 +12,7 @@ public class QuickSort2Ways {
     private static int partition(Comparable[] arr, int l, int r){
 
         // 随机在arr[l...r]的范围中, 选择一个数值作为标定点pivot
-        swap( arr, l , (int)(Math.random()*(r-l+1))+l );
+        swap( arr, l , (int)(Math.random() % (r-l+1))+l );
 
         Comparable v = arr[l];
 
@@ -32,6 +34,7 @@ public class QuickSort2Ways {
 
             if( i > j )
                 break;
+
 
             swap( arr, i, j );
             i ++;
@@ -72,12 +75,14 @@ public class QuickSort2Ways {
     // 测试 QuickSort
     public static void main(String[] args) {
 
-        //双路快速排序算法也是一个O(nlogn)复杂度的算法
+        // 双路快速排序算法也是一个O(nlogn)复杂度的算法
         // 可以在1秒之内轻松处理100万数量级的数据
-        int N = 1000000;
+        int N = 10;
         Integer[] arr = SortTestHelper.generateRandomArray(N, 0, 100000);
-        SortTestHelper.testSort("bobo.algo.QuickSort2Ways", arr);
 
+//        SortTestHelper.testSort("data_structure.sort_algorithm.quick_sort", arr);
+        QuickSort2Ways.sort(arr,0,arr.length-1);
+        PrintHelper.printArray(arr);
         return;
     }
 }

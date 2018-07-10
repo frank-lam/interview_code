@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
-      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/bubble_sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/insertion_sort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/selection_sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/shell_sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learn/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code7_reverse_integer/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/SortTestHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/merge_sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/merge_sort/MergeSortBU.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/quick_sort/QuickSort_Study.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/quick_sort/QuickSort_Study.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview_code/leetcode/code7_reverse_integer/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/leetcode/code7_reverse_integer/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview_code/utils/SortTestHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/utils/SortTestHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways_Study.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways_Study.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Study.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Study.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/SortTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/SortTestHelper.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,15 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/code7_reverse_integer/Solution.java">
+      <file leaf-file-name="QuickSort2Ways_Study.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways_Study.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-              <folding>
-                <element signature="e#1179#1180#0" expanded="true" />
-                <element signature="e#1249#1250#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="209">
+              <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -65,8 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/utils/ObjectVisitor.java" />
-        <option value="$PROJECT_DIR$/src/utils/Sizer.java" />
         <option value="$PROJECT_DIR$/src/utils/GraphTraverser.java" />
         <option value="$PROJECT_DIR$/src/utils/FieldInfo.java" />
         <option value="$PROJECT_DIR$/src/utils/ClassInfo.java" />
@@ -76,10 +72,7 @@
         <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/SortTestHelper.java" />
         <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Rand.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code75/Solution.java" />
-        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways.java" />
         <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways.java" />
-        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Study.java" />
-        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways_Study.java" />
         <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways_Study.java" />
@@ -110,12 +103,17 @@
         <option value="$PROJECT_DIR$/src/learn/Main.java" />
         <option value="$PROJECT_DIR$/src/learn/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/selection_sort/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/src/utils/SortTestHelper.java" />
         <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/bubble_sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/shell_sort/ShellSort.java" />
         <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/insertion_sort/InsertionSort.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/leetcode/code7_reverse_integer/Solution.java" />
+        <option value="$PROJECT_DIR$/src/utils/SortTestHelper.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/merge_sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/merge_sort/MergeSortBU.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Study.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways_Study.java" />
       </list>
     </option>
   </component>
@@ -160,44 +158,20 @@
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="sort_algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="code7_reverse_integer" type="462c0819:PsiDirectoryNode" />
+              <item name="sort_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="quick_sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,47 +210,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.sort_algorithm.bubble_sort.BubbleSort" />
+  <component name="RunManager" selected="Application.QuickSort2Ways_Study">
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.sort_algorithm.merge_sort.MergeSort" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.sort_algorithm.bubble_sort.*" />
+          <option name="PATTERN" value="data_structure.sort_algorithm.merge_sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.sort_algorithm.insertion_sort.InsertionSort" />
+    <configuration name="MergeSortBU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.sort_algorithm.merge_sort.MergeSortBU" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.sort_algorithm.insertion_sort.*" />
+          <option name="PATTERN" value="data_structure.sort_algorithm.merge_sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.sort_algorithm.selection_sort.SelectionSort" />
+    <configuration name="QuickSort2Ways" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.sort_algorithm.quick_sort.QuickSort2Ways" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.sort_algorithm.selection_sort.*" />
+          <option name="PATTERN" value="data_structure.sort_algorithm.quick_sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.sort_algorithm.shell_sort.ShellSort" />
+    <configuration name="QuickSort2Ways_Study" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.sort_algorithm.quick_sort.QuickSort2Ways_Study" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.sort_algorithm.shell_sort.*" />
+          <option name="PATTERN" value="data_structure.sort_algorithm.quick_sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,19 +330,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SelectionSort" />
-      <item itemvalue="Application.InsertionSort" />
-      <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.ShellSort" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.MergeSortBU" />
+      <item itemvalue="Application.QuickSort2Ways_Study" />
+      <item itemvalue="Application.QuickSort2Ways" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort2Ways_Study" />
+        <item itemvalue="Application.QuickSort2Ways" />
+        <item itemvalue="Application.MergeSortBU" />
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.ShellSort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +376,7 @@
       <workItem from="1531101100102" duration="6962000" />
       <workItem from="1531148611906" duration="778000" />
       <workItem from="1531183323904" duration="20000" />
-      <workItem from="1531192372857" duration="11729000" />
+      <workItem from="1531192372857" duration="20264000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -415,7 +389,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76079000" />
+    <option name="totallyTimeSpent" value="84614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -429,10 +403,10 @@
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.2979415" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.29035753" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2521322" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2521322" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -491,76 +465,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="60" selection-start-line="60" selection-end-line="61" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways_Study.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/PrintHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-722">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/SizeOf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/code804_unique_morse_code_words/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/code349_intersection_of_two_arrays/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/code20_valid_parentheses/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/code75_sort_colors/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interview_code.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -780,41 +684,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/SortTestHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-679">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/bubble_sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/selection_sort/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="17" selection-start-line="8" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/shell_sort/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="56" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/insertion_sort/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -837,12 +710,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/code7_reverse_integer/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        <state relative-caret-position="285">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
           <folding>
             <element signature="e#1179#1180#0" expanded="true" />
             <element signature="e#1249#1250#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/shell_sort/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/bubble_sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="30" selection-start-line="30" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/SortTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/merge_sort/MergeSortBU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" selection-start-line="11" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/merge_sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="70" selection-start-line="70" selection-end-line="76" selection-end-column="29" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/insertion_sort/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="45" selection-start-line="45" selection-end-line="51" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Rand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Study.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways_Study.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways_Study.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
         </state>
       </provider>
     </entry>

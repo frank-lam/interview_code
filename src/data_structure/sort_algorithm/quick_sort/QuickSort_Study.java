@@ -22,7 +22,7 @@ public class QuickSort_Study {
     // 对arr[l...r]部分进行partition操作
     // 返回p, 使得arr[l...p-1] < arr[p] ; arr[p+1...r] > arr[p]
     public static int partition(int[] arr, int l, int r) {
-        swap(arr, l, (int) (Math.random() * (r - l + 1)) + l);
+        swap(arr, l, (int) (Math.random() % (r - l + 1)) + l);
 
         int v = arr[l];
         int j = l;
