@@ -4,7 +4,7 @@
 
 ## 题目来源
 
-- Leetcode | 14题
+- Leetcode | 17题
 - Newcoder | 0题
 - 国内大厂面试笔试题
   - 阿里巴巴
@@ -32,11 +32,9 @@
 
 | Leetcode                                                     | 难度 | 完成时间 |
 | ------------------------------------------------------------ | ---- | -------- |
-| [7.反转整数](https://leetcode-cn.com/problems/reverse-integer/description/) | 简单 | 7/10     |
+| [7. 反转整数](https://leetcode-cn.com/problems/reverse-integer/description/) | 简单 | 7/10     |
+| [1. 两数之和](https://leetcode-cn.com/problems/two-sum/description/) | 简单 | 7/11     |
 |                                                              |      |          |
-|                                                              |      |          |
-
-
 
 
 
