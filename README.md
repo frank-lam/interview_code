@@ -4,7 +4,7 @@
 
 ## 题目来源
 
-- Leetcode | 17题
+- Leetcode
 - Newcoder | 0题
 - 国内大厂面试笔试题
   - 阿里巴巴
@@ -30,13 +30,26 @@
 - 2018/07/06：Leetcode完成`字段数Trie`相关习题
 - 2018/07/07：Leetcode完成`204素数`、`405 16进制转换问题`、`415 字符串相加10进制`、`67 字符串相加2进制`相关习题，学习并查集数据结构
 
-| Leetcode                                                     | 难度 | 完成时间 |
-| ------------------------------------------------------------ | ---- | -------- |
-| [7. 反转整数](https://leetcode-cn.com/problems/reverse-integer/description/) | 简单 | 7/10     |
-| [1. 两数之和](https://leetcode-cn.com/problems/two-sum/description/) | 简单 | 7/11     |
-|                                                              |      |          |
-
-
+| Leetcode                                                     | 类型     | 难度 | 完成时间 |
+| ------------------------------------------------------------ | -------- | ---- | -------- |
+| [7. 反转整数](https://leetcode-cn.com/problems/reverse-integer/description/) |          | 简单 | 7/10     |
+| [1. 两数之和](https://leetcode-cn.com/problems/two-sum/description/) |          | 简单 | 7/11     |
+| [292. Nim游戏](https://leetcode-cn.com/problems/nim-game/description/) |          | 简单 | 7/11     |
+| [169 求众数](https://leetcode-cn.com/problems/majority-element/description/) |          | 简单 | 7/11     |
+| [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) |          | 中等 |          |
+| [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/) | 动态规划 | 简单 | 7/12     |
+| [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/description/) |          | 简单 |          |
+| 120                                                          |          |      |          |
+| 64                                                           |          |      |          |
+| 343                                                          |          |      |          |
+| 279                                                          |          |      |          |
+| 91                                                           |          |      |          |
+| 62                                                           |          |      |          |
+| 63                                                           |          |      |          |
+| [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/description/) | 动态规划 | 简单 | 7/12     |
+| [213 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/description/) | 动态规划 | 中等 | 待解决   |
+| 337 house robber3                                            |          |      |          |
+| 309 股票问题                                                 |          |      |          |
 
 
 
