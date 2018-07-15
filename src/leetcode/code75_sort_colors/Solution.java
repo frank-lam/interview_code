@@ -1,7 +1,7 @@
 package leetcode.code75_sort_colors;
 
 
-import data_structure.sort_algorithm.quick_sort.SortTestHelper;
+import data_structure.sort.quick_sort.SortTestHelper;
 
 /**
  * @author Created By Frank

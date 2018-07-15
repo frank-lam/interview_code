@@ -1,6 +1,6 @@
 package utils;
 
-import data_structure.sort_algorithm.heap_sort.MaxHeap;
+import data_structure.sort.heap_sort.MaxHeap;
 
 // 我们的PrintableMaxHeap只能处理整数信息，所以继承的是MaxHeap<Comparable<Integer>>
 public class PrintableMaxHeap extends MaxHeap<Comparable<Integer>> {
