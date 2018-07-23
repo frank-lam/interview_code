@@ -5,76 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/dynamic_programming/fibonacci/Solution1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/dynamic_programming/fibonacci/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/dynamic_programming/fibonacci/Solution3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/quick_sort/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/quick_sort/QuickSort3Ways.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/quick_sort/QuickSort_Rand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/quick_sort/SortTestHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/quick_sort/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/quick_sort/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/leetcode/code213_house_robber_ii/Solution1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/leetcode/code213_house_robber_ii/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/leetcode/code343_integer_break/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/leetcode/code343_integer_break/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/interview_code/leetcode/code343_integer_break/Solution3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/dynamic_programming/fibonacci/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/dynamic_programming/fibonacci/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure/dynamic_programming/fibonacci/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jcf/ArrayList/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jcf/LinkedList/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code17_letter_combinations_of_a_phone_number/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code17_letter_combinations_of_a_phone_number/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code213_house_robber_ii/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code213_house_robber_ii/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code343_integer_break/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code343_integer_break/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code343_integer_break/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/code46_permutations/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/code77_combinations/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/bubble_sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/bubble_sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/heap_sort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/heap_sort/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/heap_sort/MaxHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/heap_sort/MaxHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/insertion_sort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/insertion_sort/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/merge_sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/merge_sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/merge_sort/MergeSortBU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/merge_sort/MergeSortBU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/quick_sort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/quick_sort/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/quick_sort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/quick_sort/QuickSort2Ways.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/quick_sort/QuickSort2Ways.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/quick_sort/QuickSort2Ways_Study.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/quick_sort/QuickSort2Ways_Study.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/quick_sort/QuickSort3Ways.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/quick_sort/QuickSort3Ways_Study.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/quick_sort/QuickSort3Ways_Study.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/quick_sort/QuickSort_Rand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/quick_sort/QuickSort_Study.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/quick_sort/QuickSort_Study.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/quick_sort/SortTestHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/quick_sort/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/quick_sort/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/selection_sort/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/selection_sort/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort_algorithm/shell_sort/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/data_structure/sort/shell_sort/ShellSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/leetcode/code213_house_robber_ii/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/leetcode/code213_house_robber_ii/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/leetcode/code75_sort_colors/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/leetcode/code75_sort_colors/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/utils/PrintableMaxHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/utils/PrintableMaxHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/bubble_sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/bubble_sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/heap_sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/heap_sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/heap_sort/MaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/heap_sort/MaxHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/insertion_sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/insertion_sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/merge_sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/merge_sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/merge_sort/MergeSortBU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/merge_sort/MergeSortBU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort2Ways.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort2Ways_Study.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort2Ways_Study.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort3Ways.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort3Ways_Study.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort3Ways_Study.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Rand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort_Rand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/QuickSort_Study.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort_Study.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/quick_sort/SortTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/SortTestHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/selection_sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/selection_sort/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort_algorithm/shell_sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/shell_sort/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/code213_house_robber_ii/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/code213_house_robber_ii/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/code75_sort_colors/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/code75_sort_colors/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/PrintableMaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/PrintableMaxHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview_code/leetcode/code17_letter_combinations_of_a_phone_number/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/leetcode/code17_letter_combinations_of_a_phone_number/Solution2.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,20 +24,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/code17_letter_combinations_of_a_phone_number/Solution2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -130,9 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/code204_count_primes/Solution1.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/code204_count_primes/Solution.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/code405_convert_a_number_to_hexadecimal/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code415_add_strings/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code67_add_binary/Solution.java" />
         <option value="$PROJECT_DIR$/src/learn/avl_tree.java" />
@@ -181,6 +101,9 @@
         <option value="$PROJECT_DIR$/src/leetcode/code17_letter_combinations_of_a_phone_number/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code1_two_sum/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code17_letter_combinations_of_a_phone_number/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/code46_permutations/Solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/code77_combinations/Solution.java" />
+        <option value="$PROJECT_DIR$/src/learn/demo2.java" />
       </list>
     </option>
   </component>
@@ -193,8 +116,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="582" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -220,45 +144,12 @@
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jcf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jcf" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="code1_two_sum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="code17_letter_combinations_of_a_phone_number" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution2 (1)">
+  <component name="RunManager" selected="Application.demo2">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.code1_two_sum.Solution" />
       <module name="interview_code" />
@@ -306,13 +197,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.code17_letter_combinations_of_a_phone_number.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.code46_permutations.Solution" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.code17_letter_combinations_of_a_phone_number.*" />
+          <option name="PATTERN" value="leetcode.code46_permutations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.code77_combinations.Solution" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.code77_combinations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,17 +237,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.code17_letter_combinations_of_a_phone_number.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.code213_house_robber_ii.Solution2" />
-      <module name="interview_code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.code213_house_robber_ii.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,13 +288,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jcf.test" />
+    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.demo2" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jcf.*" />
+          <option name="PATTERN" value="learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -447,19 +338,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.demo" />
       <item itemvalue="Application.Solution2 (1)" />
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.demo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo2" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution2 (1)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.demo" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -502,7 +393,13 @@
       <workItem from="1531444792581" duration="11750000" />
       <workItem from="1531532514004" duration="4777000" />
       <workItem from="1531645000826" duration="1750000" />
-      <workItem from="1531646816771" duration="631000" />
+      <workItem from="1531646816771" duration="939000" />
+      <workItem from="1531648312516" duration="5183000" />
+      <workItem from="1531895902295" duration="1213000" />
+      <workItem from="1532014037022" duration="1416000" />
+      <workItem from="1532082926904" duration="14000" />
+      <workItem from="1532226173287" duration="1206000" />
+      <workItem from="1532258930984" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -515,7 +412,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123968000" />
+    <option name="totallyTimeSpent" value="133349000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -528,31 +425,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.18959913" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.29035753" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.24052005" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.3066089" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24093817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25692964" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28602383" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Thumbnails" order="11" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Module Dependencies" order="7" weight="0.32995737" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.18959913" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
@@ -601,27 +497,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort_Rand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort_Study.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort3Ways.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -686,16 +561,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/code169_majority_element/Solutions.java" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/code169_majority_element/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -714,13 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -890,10 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="258" column="31" lean-forward="true" selection-start-line="258" selection-start-column="31" selection-end-line="258" selection-end-column="31" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -950,9 +804,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="171">
+            <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/code46_permutations/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/code77_combinations/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
         </state>
       </provider>
     </entry>
