@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
-      <change afterPath="$PROJECT_DIR$/src/learn/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code46_permutations/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code77_combinations/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/interview_code/leetcode/code17_letter_combinations_of_a_phone_number/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/leetcode/code17_letter_combinations_of_a_phone_number/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learn/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learn/demo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,6 +38,7 @@
       <find>equals(</find>
       <find>notify</find>
       <find>set(</find>
+      <find>resize</find>
       <find>add(</find>
     </findStrings>
     <dirStrings>
@@ -59,7 +57,6 @@
         <option value="$PROJECT_DIR$/src/leetcode/code387_first_unique_character_in_a_string/Solution.java" />
         <option value="$PROJECT_DIR$/src/learn/test.java" />
         <option value="$PROJECT_DIR$/src/learn/thread.java" />
-        <option value="$PROJECT_DIR$/src/learn/Main.java" />
         <option value="$PROJECT_DIR$/src/learn/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/selection_sort/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/data_structure/sort_algorithm/bubble_sort/BubbleSort.java" />
@@ -81,7 +78,6 @@
         <option value="$PROJECT_DIR$/src/leetcode/code169_majority_element/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code70_climbing_stairs/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code70_climbing_stairs/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/learn/demo.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code198_house_robber/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code198_house_robber/Solution3.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code198_house_robber/Solution2.java" />
@@ -104,6 +100,8 @@
         <option value="$PROJECT_DIR$/src/leetcode/code46_permutations/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code77_combinations/Solution.java" />
         <option value="$PROJECT_DIR$/src/learn/demo2.java" />
+        <option value="$PROJECT_DIR$/src/learn/demo.java" />
+        <option value="$PROJECT_DIR$/src/learn/Main.java" />
       </list>
     </option>
   </component>
@@ -139,21 +137,16 @@
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/gitdoc/interview_code/src/leetcode/code17_letter_combinations_of_a_phone_number/Solution.java" />
+    <property name="SearchEverywhereHistoryKey" value="LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/dev/mango_server" />
@@ -400,6 +393,9 @@
       <workItem from="1532082926904" duration="14000" />
       <workItem from="1532226173287" duration="1206000" />
       <workItem from="1532258930984" duration="41000" />
+      <workItem from="1532402114953" duration="2104000" />
+      <workItem from="1532522314707" duration="994000" />
+      <workItem from="1532677112321" duration="118000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -412,7 +408,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133349000" />
+    <option name="totallyTimeSpent" value="136565000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -429,14 +425,14 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.29035753" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.29035753" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.24052005" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25692964" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26492536" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -472,13 +468,13 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.29035753" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28602383" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.19068256" />
       <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,27 +493,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort2Ways.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort3Ways_Study.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort2Ways_Study.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -579,13 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn/demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -842,6 +810,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-598">
+          <caret line="670" column="60" lean-forward="true" selection-start-line="670" selection-start-column="17" selection-end-line="670" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="143" column="21" lean-forward="true" selection-start-line="143" selection-start-column="21" selection-end-line="143" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
