@@ -85,7 +85,18 @@
 | [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/description/) | 动态规划      | 中等 | 7/13     |
 | 337 house robber3                                            |               |      |          |
 | [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) |               | 中等 |          |
+| 416. Partition Equal Subset Sum ★                            | 背包问题      |      |          |
+| 322. Coin Change                                             |               |      |          |
+| 377. Combination Sum IV                                      |               |      |          |
+| 474. Ones and Zeroes                                         |               |      |          |
+| 139. Word Break                                              |               |      |          |
+| 494. Target Sum                                              |               |      |          |
 |                                                              |               |      |          |
+|                                                              |               |      |          |
+| **第10章：贪心算法**                                         |               |      |          |
+| [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/) ★ | 贪心算法      | 简单 | 8/4      |
+| 392. is subsequencse                                         |               |      |          |
+| 435. Non-overlapping Intervals ★                             |               |      |          |
 
 
 
