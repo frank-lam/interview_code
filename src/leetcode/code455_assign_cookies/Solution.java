@@ -37,5 +37,4 @@ public class Solution {
         int res =  new Solution().findContentChildren(new int[]{1,2,3}, new int[]{3});
         System.out.println(res);
     }
-
 }

@@ -12,7 +12,6 @@ import java.util.Scanner;
 public class Main02 {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner in = new Scanner(new BufferedReader(new FileReader("xxx")));
-
     }
 
     private static void swap(int[] fighting, int i, int j) {
