@@ -12,6 +12,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) throws FileNotFoundException {
 
+//        Scanner in = new Scanner(System.in);
         // 这里设置输入输出文件，方便长出入调试使用
         Scanner in = new Scanner(new BufferedReader(new FileReader("xxx")));
 

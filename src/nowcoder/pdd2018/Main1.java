@@ -15,7 +15,7 @@ import java.util.*;
  * 小熊吃糖_拼多多笔试题_牛客网
  * https://www.nowcoder.com/questionTerminal/dc49df3bbc0146dd92322889d40afcb1?orderByHotValue=1&page=1&onlyReference=false
  */
-public class Main01 {
+public class Main1 {
 
     public static void main(String[] args) throws FileNotFoundException {
         Scanner in = new Scanner(System.in);
