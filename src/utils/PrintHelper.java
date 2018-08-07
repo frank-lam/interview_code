@@ -75,7 +75,16 @@ public class PrintHelper {
             }
             System.out.println();    //换行
         }
+    }
 
+    // 打印二维arr
+    public static void print2DArray(char[][] magicSquare) {
+        for (int i = 0; i < magicSquare.length; i++) {
+            for (int j = 0; j < magicSquare[i].length; j++) {
+                System.out.print(magicSquare[i][j] + "\t");
+            }
+            System.out.println();    //换行
+        }
     }
 
 

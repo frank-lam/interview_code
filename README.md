@@ -64,7 +64,7 @@
 | 78 subsets                                                   | 递归和回溯     |      |          |
 | 90 subsets2                                                  | 递归和回溯     |      |          |
 | 401 Binary Watch                                             | 递归和回溯     |      |          |
-| [79. 单词搜索](https://leetcode-cn.com/problems/word-search/description/) ★ | 二维平面回 溯  |      |          |
+| [79. 单词搜索](https://leetcode-cn.com/problems/word-search/description/) ★ | 二维平面回溯   | 中等 | 8/17     |
 | [200. 岛屿的个数](https://leetcode-cn.com/problems/number-of-islands/description/) ★ | floodfill算法  |      |          |
 | 130. Surrounded Regions ★                                    | floodfill算法  |      |          |
 | [417. Pacific Atlantic Water Flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow) | 二维平面回溯   |      |          |
