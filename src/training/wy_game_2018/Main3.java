@@ -1,71 +1,93 @@
 package training.wy_game_2018;
 
-/**
- * @author Created By Frank
- * @date 2018-08-07 15:13
- */
-
-import java.io.BufferedReader;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.util.Scanner;
 
+/**
+ * @author Created By Frank
+ * @date 2018-08-08 8:34
+ */
 public class Main3 {
-    public static int sum = 0;
-
     public static void main(String[] args) throws FileNotFoundException {
-//        Scanner sc = new Scanner(System.in);
-        Scanner sc = new Scanner(new BufferedReader(
-                new FileReader("D:\\gitdoc\\interview_code\\src\\training\\wy_game_2018\\input3.txt")
-        ));
+        Scanner in = new Scanner(System.in);
+//        Scanner in = new Scanner(new BufferedReader(new FileReader("D:\\gitdoc\\interview_code\\src\\training\\wy_game_2018\\input3.txt")));
 
-        int group_Num = sc.nextInt();
-        for (int i = 0; i < group_Num; i++) {
-            int row = sc.nextInt();
-            int col = sc.nextInt();
-            char[][] chars = new char[row][col];
-            for (int j = 0; j < row; j++) {
-                String str = sc.next();
-                for (int k = 0; k < col; k++) {
-                    chars[j][k] = str.charAt(k);
+        int t = in.nextInt();
+        in.nextLine();
+
+        for (int s = 0; s < t; s++) {
+
+            int res = 0;
+            int m = in.nextInt();
+            int n = in.nextInt();
+            char[][] board = new char[m][n];
+            in.nextLine();
+
+            for (int i = 0; i < m; i++) {
+                String linestr = in.nextLine();
+                char[] arr = linestr.toCharArray();
+                for (int j = 0; j < n; j++) {
+                    board[i][j] = arr[j];
                 }
             }
-            String word = sc.next();
-            for (int l = 0; l < row; l++) {
-                for (int m = 0; m < col; m++) {
-                    if (chars[l][m] == word.charAt(0)) {
-                        match_right(word, l, m, chars, row, col);
-                        match_down(word, l, m, chars, row, col);
-                        match_rightdown(word, l, m, chars, row, col);
-                    }
+            String word = in.nextLine();
+
+
+            for (int i = 0; i < m; i++) {
+                for (int j = 0; j < n; j++) {
+                    if (scanRight(board, i, j, word))
+                        res++;
+                    if (scanDown(board, i, j, word))
+                        res++;
+                    if (scanRD(board, i, j, word))
+                        res++;
                 }
             }
-            System.out.println(sum);
-            sum = 0;
+            System.out.println(res);
         }
     }
 
-    public static void match_right(String word, int i, int j, char[][] chars, int row, int col) {
-        if (col - j < word.length()) return;
-        for (int n = 0; n < word.length(); n++) {
-            if (word.charAt(n) != chars[i][j + n]) return;
+    private static boolean scanRD(char[][] board, int x, int y, String word) {
+        int len = word.length();
+        if (!inArea(x + len - 1, y + len - 1, board)) {
+            return false;
         }
-        sum++;
+        StringBuffer sbf = new StringBuffer();
+        for (int xs = x, ys = y; xs < x + len; xs++, ys++) {
+            sbf.append(board[xs][ys]);
+        }
+        return word.equals(sbf.toString());
     }
 
-    public static void match_down(String word, int i, int j, char[][] chars, int row, int col) {
-        if (row - i < word.length()) return;
-        for (int n = 0; n < word.length(); n++) {
-            if (word.charAt(n) != chars[i + n][j]) return;
+    private static boolean scanDown(char[][] board, int x, int y, String word) {
+        int len = word.length();
+        if (!inArea(x + len - 1, y, board)) {
+            return false;
         }
-        sum++;
+        StringBuffer sbf = new StringBuffer();
+        for (int index = x; index < x + len; index++) {
+            sbf.append(board[index][y]);
+        }
+        return word.equals(sbf.toString());
     }
 
-    public static void match_rightdown(String word, int i, int j, char[][] chars, int row, int col) {
-        if (col - j < word.length() || row - i < word.length()) return;
-        for (int n = 0; n < word.length(); n++) {
-            if (word.charAt(n) != chars[i + n][j + n]) return;
+
+    private static boolean scanRight(char[][] board, int x, int y, String word) {
+        int len = word.length();
+        if (!inArea(x, y + len - 1, board)) {
+            return false;
         }
-        sum++;
+
+        StringBuffer sbf = new StringBuffer();
+        for (int index = y; index < y + len; index++) {
+            sbf.append(board[x][index]);
+        }
+        return word.equals(sbf.toString());
+    }
+
+    private static boolean inArea(int x, int y, char[][] board) {
+        int m = board.length;
+        int n = board[0].length;
+        return x >= 0 && x < m && y >= 0 && y < n;
     }
 }
