@@ -67,6 +67,17 @@ public class PrintHelper {
         return;
     }
 
+    public static void printArray(double[] arr) {
+
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i]);
+            System.out.print(' ');
+        }
+        System.out.println();
+
+        return;
+    }
+
     // 打印二维arr
     public static void print2DArray(int[][] magicSquare) {
         for (int i = 0; i < magicSquare.length; i++) {

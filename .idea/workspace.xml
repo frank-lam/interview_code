@@ -5,26 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
-      <change afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/input3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/input4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_learn/concurrent/create_thread/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training/hw2019/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training/hw2019/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training/hw2019/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training/hw2019/input2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/dp/knapsack/Solution01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/dp/knapsack/Solution01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/pdd_20180805/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/pdd_20180805/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jcf/ArrayList/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_learn/jcf/ArrayList/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jcf/LinkedList/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_learn/jcf/LinkedList/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nowcoder/template/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/template/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/training/wy_game_2018/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/training/wy_game_2018/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/input1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/input2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/input2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/input4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/wygame_20180809/input4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/PrintHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/PrintHelper.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,14 +26,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/Main1.java">
+      <file leaf-file-name="Main4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/Main4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="76" lean-forward="true" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
+            <state relative-caret-position="361">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="input4.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/input4.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="11" selection-start-line="7" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -71,6 +67,9 @@
       <find>resize</find>
       <find>add(</find>
       <find>equal</find>
+      <find>rulemap</find>
+      <find>in.nextLine</find>
+      <find>33333333333</find>
     </findStrings>
     <dirStrings>
       <dir>D:\gitdoc\interview_code\src\leetcode\code292_nim_game</dir>
@@ -82,11 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/data_structure/dp/knapsack01.java" />
-        <option value="$PROJECT_DIR$/src/data_structure/dp/knapsack/Solution02.java" />
-        <option value="$PROJECT_DIR$/src/data_structure/dp/knapsack/Solution03.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/code300_longest_increasing_subsequence/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/code300_longest_increasing_subsequence/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code300_longest_increasing_subsequence/Solution3.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code392_is_subsequence/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/code435_non_overlapping_intervals/Solution.java" />
@@ -103,7 +97,6 @@
         <option value="$PROJECT_DIR$/src/nowcoder/pdd2018/Main2.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/pdd2018/Main4.java" />
         <option value="$PROJECT_DIR$/src/interview/pdd_20180805/Main3.java" />
-        <option value="$PROJECT_DIR$/src/utils/PrintHelper.java" />
         <option value="$PROJECT_DIR$/src/interview/pdd_20180805/input1.txt" />
         <option value="$PROJECT_DIR$/src/interview/pdd_20180805/Main1.java" />
         <option value="$PROJECT_DIR$/src/interview/pdd_20180805/input4.txt" />
@@ -131,8 +124,14 @@
         <option value="$PROJECT_DIR$/src/data_structure/dp/knapsack/Solution01_retraining.java" />
         <option value="$PROJECT_DIR$/src/training/hw2019/Solution01_retraining.java" />
         <option value="$PROJECT_DIR$/src/training/hw2019/Main2.java" />
-        <option value="$PROJECT_DIR$/src/interview/wygame_20180809/Main2.java" />
+        <option value="$PROJECT_DIR$/src/interview/wygame_20180809/Main3.java" />
+        <option value="$PROJECT_DIR$/src/utils/PrintHelper.java" />
+        <option value="$PROJECT_DIR$/src/interview/wygame_20180809/input1.txt" />
         <option value="$PROJECT_DIR$/src/interview/wygame_20180809/Main1.java" />
+        <option value="$PROJECT_DIR$/src/interview/wygame_20180809/input2.txt" />
+        <option value="$PROJECT_DIR$/src/interview/wygame_20180809/Main2.java" />
+        <option value="$PROJECT_DIR$/src/interview/wygame_20180809/input4.txt" />
+        <option value="$PROJECT_DIR$/src/interview/wygame_20180809/Main4.java" />
       </list>
     </option>
   </component>
@@ -194,7 +193,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="wygame_20180809" type="462c0819:PsiDirectoryNode" />
-              <item name="Main1" type="1a9f42e2:ClassTreeNode" />
+              <item name="Main4" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
@@ -216,6 +215,52 @@
               <item name="utils" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
               <item name="Main" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="PrintHelper" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="NumberFormatException" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -266,14 +311,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
+  <component name="RunManager" selected="Application.Main4">
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training.hw2019.Main1" />
+      <option name="MAIN_CLASS_NAME" value="interview.wygame_20180809.Main1" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="training.hw2019.*" />
+          <option name="PATTERN" value="interview.wygame_20180809.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.wygame_20180809.Main2" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.wygame_20180809.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,24 +345,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training.wy_game_2018.Main3" />
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.wygame_20180809.Main4" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="training.wy_game_2018.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main3_demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training.wy_game_2018.Main3_demo" />
-      <module name="interview_code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="training.wy_game_2018.*" />
+          <option name="PATTERN" value="interview.wygame_20180809.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,17 +363,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="data_structure.dp.knapsack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.code198_house_robber.Solution2" />
-      <module name="interview_code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.code198_house_robber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,17 +431,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Main3_demo" />
-      <item itemvalue="Application.Solution2" />
-      <item itemvalue="Application.Main3" />
       <item itemvalue="Application.Thread1" />
       <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.Main2 (1)" />
+      <item itemvalue="Application.Main4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main2 (1)" />
+        <item itemvalue="Application.Main1" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Thread1" />
-        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -468,7 +504,7 @@
       <workItem from="1533688448332" duration="3257000" />
       <workItem from="1533777038212" duration="2031000" />
       <workItem from="1533799329248" duration="2698000" />
-      <workItem from="1533810609297" duration="798000" />
+      <workItem from="1533810609297" duration="10476000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -481,7 +517,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201581000" />
+    <option name="totallyTimeSpent" value="211259000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -498,15 +534,16 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.26435536" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50319827" side_tool="true" weight="0.25785482" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.15926327" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.31744313" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32900432" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22014925" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22014925" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -521,8 +558,35 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.26435536" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.37053087" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22014925" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Module Dependencies" order="7" weight="0.32995737" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28602383" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50319827" side_tool="true" weight="0.25785482" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.26435536" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -617,13 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/PrintHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="80" selection-start-line="80" selection-end-line="87" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/pdd_20180805/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -677,13 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="438">
           <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
@@ -846,37 +896,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/input1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/input2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/input3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/input4.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/template/Main.java">
@@ -886,10 +906,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/PrintHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/input1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/input2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="119" lean-forward="true" selection-start-line="1" selection-end-line="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="76" lean-forward="true" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
+        <state relative-caret-position="19">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/input4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="11" selection-start-line="7" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/wygame_20180809/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
