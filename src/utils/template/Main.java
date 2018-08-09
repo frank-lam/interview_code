@@ -1,4 +1,4 @@
-package nowcoder.template;
+package utils.template;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

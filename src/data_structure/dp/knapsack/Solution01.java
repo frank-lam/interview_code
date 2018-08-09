@@ -19,7 +19,6 @@ public class Solution01 {
     private static int count = 0;
     private static int[][] memo;
 
-
     public int knapsack(int[] w, int[] v, int C) {
         int n = w.length;
         memo = new int[n][C + 1];

@@ -1,4 +1,4 @@
-package jcf.ArrayList;
+package java_learn.jcf.ArrayList;
 
 import java.util.ArrayList;
 import java.util.List;

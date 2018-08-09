@@ -16,7 +16,7 @@ public class Main1 {
     public static void main(String[] args) throws FileNotFoundException {
 //        Scanner in = new Scanner(System.in);
         Scanner in = new Scanner(new BufferedReader(
-                new FileReader("D:\\gitdoc\\interview_code\\src\\training\\wy_game_2018\\input1.txt")
+                new FileReader("D:\\gitdoc\\interview_code\\src\\training\\wy_game_2018\\input2.txt")
         ));
 
         int n = Integer.valueOf(in.nextLine());
