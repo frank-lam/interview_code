@@ -17,7 +17,7 @@ import java.util.List;
  * 输出: 4
  * 解释: 最长的上升子序列是 [2,3,7,101]，它的长度是 4。
  */
-public class Solution2 {
+public class Solution4 {
     private static List<Integer> LISindex = new ArrayList<>(); // 记录一下有几个上升子序列
 
     public List<List<Integer>> lengthOfLIS(int[] nums) {
@@ -61,8 +61,34 @@ public class Solution2 {
             resList.add(reverseList(list));
         }
 
+        List<Integer> remove = new ArrayList<>();
+        for (int i = 0; i < resList.size(); i++) {
+            boolean flag = true;
+            int countLen = 1;
+            List<Integer> li = resList.get(i);
+            int len = li.size();
+            for (int k = 1; k < len; k++) {
+                if (li.get(k) - li.get(k - 1) != 1) {
+                    flag = false;
+                } else {
+                    countLen++;
+                }
+            }
+            if (flag == false || countLen < 5) {
+                remove.add(i);
+            }
+        }
+
+
+        for (int i = remove.size() - 1; i >= 0; i--) {
+            int index = remove.get(i);
+            resList.remove(index);
+        }
+
+
         return resList;
     }
+
 
     private int max(int a, int b) {
         return a > b ? a : b;
@@ -77,7 +103,7 @@ public class Solution2 {
     }
 
     public static void main(String[] args) {
-        int[] arr = {10, 9, 2, 5, 3, 7, 101, 18};
-        System.out.println(new Solution2().lengthOfLIS(arr));
+        int[] arr = {10, 9, 2, 5, 3, 7, 101, 18,1,2,3,4};
+        System.out.println(new Solution4().lengthOfLIS(arr));
     }
 }
