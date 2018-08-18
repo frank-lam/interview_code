@@ -4,15 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/leetcode/code405_convert_a_number_to_hexadecimal/Solution.java" line="31" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
-      <change afterPath="$PROJECT_DIR$/src/java_learn/concurrent/create_thread/AtomaticDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_learn/concurrent/threadlocal/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/code300_longest_increasing_subsequence/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training/train_20180818/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training/train_20180818/input1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/code300_longest_increasing_subsequence/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/code300_longest_increasing_subsequence/Solution2.java" afterDir="false" />
-    </list>
+    <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,8 +21,8 @@
       <file leaf-file-name="Main1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/training/train_20180818/Main1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
+            <state relative-caret-position="264">
+              <caret line="54" column="29" lean-forward="true" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -506,7 +498,7 @@
       <workItem from="1533951796343" duration="172000" />
       <workItem from="1534144055283" duration="605000" />
       <workItem from="1534217616712" duration="5547000" />
-      <workItem from="1534593859434" duration="4551000" />
+      <workItem from="1534593859434" duration="4811000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -519,7 +511,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224551000" />
+    <option name="totallyTimeSpent" value="224811000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -965,8 +957,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/training/train_20180818/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
+        <state relative-caret-position="264">
+          <caret line="54" column="29" lean-forward="true" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
