@@ -21,7 +21,7 @@
       <file leaf-file-name="Main1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/training/train_20180818/Main1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
+            <state relative-caret-position="394">
               <caret line="54" column="29" lean-forward="true" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -155,7 +155,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="353" />
     <option name="y" value="57" />
     <option name="width" value="1299" />
@@ -498,7 +498,7 @@
       <workItem from="1533951796343" duration="172000" />
       <workItem from="1534144055283" duration="605000" />
       <workItem from="1534217616712" duration="5547000" />
-      <workItem from="1534593859434" duration="4811000" />
+      <workItem from="1534593859434" duration="5339000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -511,7 +511,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224811000" />
+    <option name="totallyTimeSpent" value="225339000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -523,7 +523,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
@@ -533,7 +533,7 @@
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.34561214" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.34561214" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32900432" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
@@ -957,7 +957,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/training/train_20180818/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="394">
           <caret line="54" column="29" lean-forward="true" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
