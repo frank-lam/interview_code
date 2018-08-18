@@ -29,7 +29,7 @@
       <file leaf-file-name="Main1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/training/train_20180818/Main1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
+            <state relative-caret-position="117">
               <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -163,7 +163,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="353" />
     <option name="y" value="57" />
     <option name="width" value="1299" />
@@ -506,7 +506,7 @@
       <workItem from="1533951796343" duration="172000" />
       <workItem from="1534144055283" duration="605000" />
       <workItem from="1534217616712" duration="5547000" />
-      <workItem from="1534593859434" duration="3917000" />
+      <workItem from="1534593859434" duration="4551000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -519,7 +519,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223917000" />
+    <option name="totallyTimeSpent" value="224551000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -532,7 +532,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
@@ -966,7 +965,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/training/train_20180818/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
+        <state relative-caret-position="117">
           <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
