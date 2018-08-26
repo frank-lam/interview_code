@@ -65,11 +65,11 @@ public class Solution2 {
 //                {'A', 'D', 'E', 'E'}
 //        };
 //        String word1 = "ABCCSE";
-//        boolean isWord1 = new Solution().exist(board, word1);
+//        boolean isWord1 = new Solution1_递归方法().exist(board, word1);
 //        System.out.println(isWord1);
 //
 //        String word2 = "FF";
-//        boolean isWord2 = new Solution().exist(board, word2);
+//        boolean isWord2 = new Solution1_递归方法().exist(board, word2);
 //        System.out.println(isWord2);
 
 

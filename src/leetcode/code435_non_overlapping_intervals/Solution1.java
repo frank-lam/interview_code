@@ -67,10 +67,10 @@ public class Solution1 {
 //        Interval[] interval2 = {new Interval(1, 2),
 //                new Interval(1, 2),
 //                new Interval(1, 2)};
-//        System.out.println((new Solution1()).eraseOverlapIntervals(interval2));
+//        System.out.println((new Solution1_递归方法()).eraseOverlapIntervals(interval2));
 //
 //        Interval[] interval3 = {new Interval(1, 2),
 //                new Interval(2, 3)};
-//        System.out.println((new Solution1()).eraseOverlapIntervals(interval3));
+//        System.out.println((new Solution1_递归方法()).eraseOverlapIntervals(interval3));
     }
 }

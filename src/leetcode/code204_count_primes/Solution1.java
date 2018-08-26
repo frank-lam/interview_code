@@ -28,7 +28,7 @@ class Solution1 {
 
     public static void main(String[] args) {
         long startTime = System.nanoTime();
-//        System.out.println(new Solution1().countPrimes(1500000));
+//        System.out.println(new Solution1_递归方法().countPrimes(1500000));
         long endTime  = System.nanoTime();
         System.out.println("Time: " + (endTime-startTime)/1000000000.0 + "s");
 

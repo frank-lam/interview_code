@@ -8,14 +8,12 @@ public class Solution2 {
     private int num = 0;
 
     public int fib(int n){
-
         int[] memo = new int[n + 1];
         Arrays.fill(memo, -1);
         return fib(n, memo);
     }
 
     private int fib(int n, int[] memo){
-
         num ++;
 
         if(n == 0)
