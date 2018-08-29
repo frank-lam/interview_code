@@ -1,17 +1,11 @@
-package sword_offer.standard;
+package sword_offer.code18_二叉树的镜像;
 
-
-/**
- * @author Created By Frank
- * @date 2018-08-25 10:03
- * 二叉树遍历
- */
 public class TreeNodePrint {
 
     // 前序遍历
     public static void preTraverse(TreeNode root) {
         if(root!=null){
-            System.out.print(root.val);
+            System.out.print(root.val+" ");
             preTraverse(root.left);
             preTraverse(root.right);
         }
@@ -20,7 +14,7 @@ public class TreeNodePrint {
     public static void inTraverse(TreeNode root) {
         if(root!=null){
             inTraverse(root.left);
-            System.out.print(root.val);
+            System.out.print(root.val+" ");
             inTraverse(root.right);
         }
     }
@@ -30,7 +24,7 @@ public class TreeNodePrint {
         if(root!=null){
             postTraverse(root.left);
             postTraverse(root.right);
-            System.out.print(root.val);
+            System.out.print(root.val+" ");
         }
     }
 }
