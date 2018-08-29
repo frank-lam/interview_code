@@ -1,4 +1,4 @@
-package sword_offer.code5_用两个栈实现队列;
+package sword_offer.code05_用两个栈实现队列;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package sword_offer.code1_二维数组中的查找;
+package sword_offer.code01_二维数组中的查找;
 
 /**
  * @author Created By Frank

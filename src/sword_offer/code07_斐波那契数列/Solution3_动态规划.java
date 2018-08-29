@@ -1,4 +1,4 @@
-package sword_offer.code7_斐波那契数列;
+package sword_offer.code07_斐波那契数列;
 
 import java.util.Arrays;
 

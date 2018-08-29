@@ -1,4 +1,4 @@
-package sword_offer.code4_重建二叉树;
+package sword_offer.code04_重建二叉树;
 
 import sword_offer.standard.TreeNode;
 import sword_offer.standard.TreeNodePrint;

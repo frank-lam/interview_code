@@ -1,4 +1,4 @@
-package sword_offer.code2_替换空格;
+package sword_offer.code02_替换空格;
 
 /**
  * @author Created By Frank

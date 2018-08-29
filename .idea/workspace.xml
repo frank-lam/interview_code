@@ -6,42 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code16_合并两个排序的链表/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code16_合并两个排序的链表/PrintListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code16_合并两个排序的链表/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code17_树的子结构/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code17_树的子结构/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code18_二叉树的镜像/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code18_二叉树的镜像/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code18_二叉树的镜像/TreeNodePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code19_顺时针打印矩阵/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code20_包含min函数的栈/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/standard/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/变态跳台阶/Solution_递归方式.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code9_变态跳台阶/Solution_递归方式.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/斐波那契数列/Solution1_递归方法.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code7_斐波那契数列/Solution1_递归方法.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/斐波那契数列/Solution2_记忆化搜索.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code7_斐波那契数列/Solution2_记忆化搜索.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/斐波那契数列/Solution3_动态规划.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code7_斐波那契数列/Solution3_动态规划.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/矩形覆盖/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code10_矩形覆盖/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/跳台阶/Solution1_递归方法.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/跳台阶/Solution2_记忆化搜索.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code11_旋转数组的最小数字/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code6_旋转数组的最小数字/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code15_二进制中1的个数/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code11_二进制中1的个数/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code16_数值的整数次方/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code12_数值的整数次方/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code21_调整数组顺序使奇数位于偶数前面/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code13_调整数组顺序使奇数位于偶数前面/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code22_链表中倒数第k个结点/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code14_链表中倒数第k个结点/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code22_链表中倒数第k个结点/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code14_链表中倒数第k个结点/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code24_反转链表/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code15_反转链表/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code24_反转链表/PrintListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code15_反转链表/PrintListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code24_反转链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code15_反转链表/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code4_二维数组中的查找/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code1_二维数组中的查找/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code5_替换空格/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code2_替换空格/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code6_从尾到头打印链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code3_从尾到头打印链表/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code7_重建二叉树/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code4_重建二叉树/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code7_重建二叉树/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code4_重建二叉树/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code9_用两个栈实现队列/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code5_用两个栈实现队列/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/standard/TreeNodePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/standard/TreeNodePrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指Offer.md" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sword_offer/code1_二维数组中的查找/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code01_二维数组中的查找/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sword_offer/code2_替换空格/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code02_替换空格/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sword_offer/code3_从尾到头打印链表/Solution.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -447,7 +414,7 @@
       <workItem from="1535355332554" duration="8206000" />
       <workItem from="1535505012175" duration="7000" />
       <workItem from="1535507155004" duration="982000" />
-      <workItem from="1535510379765" duration="4693000" />
+      <workItem from="1535510379765" duration="5311000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -460,7 +427,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="268415000" />
+    <option name="totallyTimeSpent" value="269033000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -553,14 +520,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code1_二维数组中的查找/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code01_二维数组中的查找/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code2_替换空格/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code02_替换空格/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="7" selection-start-line="7" selection-end-line="28" selection-end-column="1" />
@@ -585,7 +552,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code3_从尾到头打印链表/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code03_从尾到头打印链表/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />

@@ -1,4 +1,4 @@
-package sword_offer.code6_旋转数组的最小数字;
+package sword_offer.code06_旋转数组的最小数字;
 
 public class Solution {
 

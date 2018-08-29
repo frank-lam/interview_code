@@ -1,4 +1,4 @@
-package sword_offer.code3_从尾到头打印链表;
+package sword_offer.code03_从尾到头打印链表;
 
 /**
  * @author Created By Frank

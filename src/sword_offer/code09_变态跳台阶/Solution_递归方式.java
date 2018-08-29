@@ -1,4 +1,4 @@
-package sword_offer.code9_变态跳台阶;
+package sword_offer.code09_变态跳台阶;
 
 public class Solution_递归方式 {
 
