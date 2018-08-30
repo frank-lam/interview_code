@@ -1,4 +1,4 @@
-package interview.wygame_20180809;
+package interview.code_20180809_网易游戏内推;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

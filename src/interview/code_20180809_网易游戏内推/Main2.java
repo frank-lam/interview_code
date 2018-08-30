@@ -1,4 +1,4 @@
-package interview.wygame_20180809;
+package interview.code_20180809_网易游戏内推;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Main2 {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner in = new Scanner(System.in);
-//        Scanner in = new Scanner(new BufferedReader(new FileReader("D:\\gitdoc\\interview_code\\src\\interview\\wygame_20180809\\input2.txt")));
+//        Scanner in = new Scanner(new BufferedReader(new FileReader("D:\\gitdoc\\interview_code\\src\\interview\\code_20180809_网易游戏内推\\input2.txt")));
         int n = in.nextInt();
         in.nextLine();
         List<String> list = new ArrayList<>();

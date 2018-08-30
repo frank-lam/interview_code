@@ -1,4 +1,4 @@
-package interview.pdd_20180805;
+package interview.code_20180805_拼多多内推;
 
 import utils.PrintHelper;
 
@@ -80,7 +80,7 @@ public class Main4 {
     public static void main(String[] args) throws FileNotFoundException {
 //        Scanner in = new Scanner(System.in);
         // 这里设置输入输出文件，方便长出入调试使用
-        Scanner in = new Scanner(new BufferedReader(new FileReader("D:\\gitdoc\\interview_code\\src\\interview\\pdd_20180805\\input4.txt")));
+        Scanner in = new Scanner(new BufferedReader(new FileReader("D:\\gitdoc\\interview_code\\src\\interview\\code_20180805_拼多多内推\\input4.txt")));
         int n = in.nextInt();
 
         int[] nums = new int[n];

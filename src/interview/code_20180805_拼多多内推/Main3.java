@@ -1,4 +1,4 @@
-package interview.pdd_20180805;
+package interview.code_20180805_拼多多内推;
 
 /**
  * @author Created By Frank
