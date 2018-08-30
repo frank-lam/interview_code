@@ -1,0 +1,5 @@
+4 4
+oooo
+.oxo
+o..o
+xxxx

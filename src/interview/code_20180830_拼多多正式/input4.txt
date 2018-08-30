@@ -1,0 +1,15 @@
+1 1
+a
+
+2 2
+ab
+cd
+
+2 4
+COKE
+TARN
+
+3 4
+COKE
+TARN
+SHOW

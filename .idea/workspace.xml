@@ -6,31 +6,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
-      <change afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input4.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview/20180805 拼多多秋招笔试.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/pdd_20180805/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/pdd_20180805/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/pdd_20180805/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/pdd_20180805/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/pdd_20180805/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/input1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/pdd_20180805/input2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/input2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/pdd_20180805/input4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/input4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/input1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/input2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/input2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/input3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/input3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/wygame_20180809/input4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/input4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/20180830 拼多多秋招正式.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview/20180830 拼多多秋招正式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input4.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,11 +28,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Solution1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution1.java">
+      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/code77_combinations/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="16" column="23" selection-start-line="16" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,11 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sword_offer/standard/BinaryTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code7/PrintBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code7/b06_重建二叉树.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/standard/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code7/Solution3.java" />
         <option value="$PROJECT_DIR$/src/sword_offer/code7/Solution.java" />
         <option value="$PROJECT_DIR$/src/sword_offer/code9_用两个栈实现队列/Solution.java" />
         <option value="$PROJECT_DIR$/src/sword_offer/code11_旋转数组的最小数字/Solution.java" />
@@ -139,8 +141,13 @@
         <option value="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution2.java" />
         <option value="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution3.java" />
         <option value="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution4.java" />
-        <option value="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input1.txt" />
         <option value="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input2.txt" />
+        <option value="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main2.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input4.txt" />
+        <option value="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input1.txt" />
+        <option value="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main1.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main4.java" />
       </list>
     </option>
   </component>
@@ -153,7 +160,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="523" />
     <option name="y" value="26" />
     <option name="width" value="1299" />
@@ -202,20 +209,48 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="code_20180830_拼多多正式" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution1" type="1a9f42e2:ClassTreeNode" />
+              <item name="Main1" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="code_20180830_拼多多正式" type="462c0819:PsiDirectoryNode" />
+              <item name="Main4" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java_learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="code77_combinations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="code77_combinations" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,36 +301,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution1">
+  <component name="RunManager" selected="Application.Main1">
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.code_20180805_拼多多内推.Main1" />
-      <module name="interview_code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.code_20180805_拼多多内推.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sword_offer.code18_二叉树的镜像.Solution" />
-      <module name="interview_code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sword_offer.code18_二叉树的镜像.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.code_20180830_拼多多正式.Solution1" />
+      <option name="MAIN_CLASS_NAME" value="interview.code_20180830_拼多多正式.Main1" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interview.code_20180830_拼多多正式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.code_20180830_拼多多正式.Main4" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.code_20180830_拼多多正式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.code46_permutations.Solution" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.code46_permutations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.code77_combinations.Solution" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.code77_combinations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.code17_letter_combinations_of_a_phone_number.Solution" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.code17_letter_combinations_of_a_phone_number.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,17 +415,6 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="b06_重建二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sword_offer.code7.b06_重建二叉树" />
-      <module name="interview_code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sword_offer.code7_重建二叉树.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -408,16 +454,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.b06_重建二叉树" />
+      <item itemvalue="Application.Main4" />
+      <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Main1" />
-      <item itemvalue="Application.Solution1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -496,7 +545,7 @@
       <workItem from="1535510379765" duration="5950000" />
       <workItem from="1535592651034" duration="655000" />
       <workItem from="1535616142584" duration="612000" />
-      <workItem from="1535622123074" duration="576000" />
+      <workItem from="1535622123074" duration="8096000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -509,7 +558,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="271515000" />
+    <option name="totallyTimeSpent" value="279035000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -531,11 +580,11 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50319827" side_tool="true" weight="0.25785482" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.26435536" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.29685807" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32827735" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27025586" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27025586" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -592,45 +641,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code05_用两个栈实现队列/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code06_旋转数组的最小数字/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/dynamic_programming/fibonacci/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/dynamic_programming/fibonacci/Solution3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/dynamic_programming/fibonacci/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sword_offer/code07_斐波那契数列/Solution2_记忆化搜索.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -863,21 +877,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input3.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution3.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -886,24 +887,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution2.java">
+    <entry file="file://$PROJECT_DIR$/src/utils/PrintHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="222">
+          <caret line="91" column="23" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/code46_permutations/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="60" column="25" lean-forward="true" selection-start-line="60" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/code17_letter_combinations_of_a_phone_number/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="31" selection-start-line="31" selection-end-line="37" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        <state relative-caret-position="38">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution1.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/code17_letter_combinations_of_a_phone_number/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="47" column="40" lean-forward="true" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/code77_combinations/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="23" selection-start-line="16" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
