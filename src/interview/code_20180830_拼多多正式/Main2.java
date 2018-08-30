@@ -10,6 +10,7 @@ import java.util.Scanner;
 /**
  * @author Created By Frank
  * @date 2018-08-04 10:35
+ * 100%
  */
 public class Main2 {
     public static void main(String[] args) throws FileNotFoundException {
