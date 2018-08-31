@@ -1,9 +1,9 @@
 ## 参考Github
 
 - [xurui1995/Sword-pointing-to-offer: 剑指offer java版实现](https://github.com/xurui1995/Sword-pointing-to-offer)
-- [nibnait/algorithms: 《算法 (第4版)》、牛课堂、《剑指Offer》](https://github.com/nibnait/algorithms)
+- [《算法 (第4版)》、牛课堂、《剑指Offer》，有测试用例](https://github.com/nibnait/algorithms)
 
-- [wangzhe0417/Offer: 剑指Offer代码](https://github.com/wangzhe0417/Offer)
+- [wangzhe0417/Offer: 剑指Offer代码，详细思路](https://github.com/wangzhe0417/Offer)
 
 
 
@@ -31,11 +31,11 @@
 | 18 | 面试思路           | [二叉树的镜像](https://www.nowcoder.com/practice/564f4c26aa584921bc75623e48ca3011?tpId=13&tqId=11171&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 8/27 | 43275    | 42.14% |
 | 19 | 画图让抽象形象化   | [顺时针打印矩阵](https://www.nowcoder.com/practice/9b4c81a02cd34f76be2659fa0d54342a?tpId=13&tqId=11172&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 8/27 | 35316    | 17.16% |
 | 20 | 举例让抽象具体化   | [包含min函数的栈](https://www.nowcoder.com/practice/4c776177d2c04c2494f2555c9fcc1e49?tpId=13&tqId=11173&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 8/27   | 36476    | 30.78% |
-| 21 | 举例让抽象具体化   | [栈的压入、弹出序列](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=13&tqId=11174&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 待完成 | 36837    | 28.06% |
-| 22 | 举例让抽象具体化   | [从上往下打印二叉树](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tqId=11175&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 待完成 | 37915    | 26.01% |
-| 23 | 举例让抽象具体化   | [二叉搜索树的后序遍历序列](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=13&tqId=11176&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 待完成 | 33127    | 23.20% |
-| 24 | 举例让抽象具体化   | [二叉树中和为某一值的路径](https://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tqId=11177&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 待完成 | 31011    | 25.65% |
-| 25 | 分解让复杂问题简单 | [复杂链表的复制](https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 待完成 | 26129    | 20.60% |
+| 21 | 举例让抽象具体化   | [栈的压入、弹出序列](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=13&tqId=11174&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 8/31 | 36837    | 28.06% |
+| 22 | 举例让抽象具体化   | [从上往下打印二叉树](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tqId=11175&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 8/31 | 37915    | 26.01% |
+| 23 | 举例让抽象具体化   | [二叉搜索树的后序遍历序列](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=13&tqId=11176&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 8/31 | 33127    | 23.20% |
+| 24 | 举例让抽象具体化   | [二叉树中和为某一值的路径](https://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tqId=11177&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 8/31 | 31011    | 25.65% |
+| 25 | 分解让复杂问题简单 | [复杂链表的复制](https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 8/31 | 26129    | 20.60% |
 | 26 | 分解让复杂问题简单 | [二叉搜索树与双向链表](https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=13&tqId=11179&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) |      | 24324    | 27.23% |
 | 27 | 分解让复杂问题简单 | [字符串的排列](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&tqId=11180&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) |      | 27041    | 19.41% |
 | 28 | 时间效率           | [数组中出现次数超过一半的数字](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=13&tqId=11181&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) |      | 32890    | 26.40% |

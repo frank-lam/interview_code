@@ -1,3 +1,8 @@
+3 4
+COKE
+TARN
+SHOW
+
 1 1
 a
 
