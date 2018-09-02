@@ -6,16 +6,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code21_栈的压入和弹出序列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code22_从上往下打印二叉树/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code22_从上往下打印二叉树/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code23_二叉搜索树的后序遍历序列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code24_二叉树中和为某一值的路径/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code24_二叉树中和为某一值的路径/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code25_复杂链表的复制/RandomListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_offer/code25_复杂链表的复制/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_offer/code26_二叉搜索树与双向链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_offer/code26_二叉搜索树与双向链表/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_offer/code27_字符串的排列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_offer/code27_字符串的排列/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_offer/code28_数组中出现次数超过一半的数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_offer/code29_最小的K个数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_offer/code30_连续子数组的最大和/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/code46_permutations/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/code46_permutations/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/剑指Offer.md" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,37 +29,26 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sword_offer/code24_二叉树中和为某一值的路径/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/sword_offer/code26_二叉搜索树与双向链表/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-end-line="4" />
+            <state relative-caret-position="537">
+              <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sword_offer/code25_复杂链表的复制/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomListNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sword_offer/code25_复杂链表的复制/RandomListNode.java">
+        <entry file="file://$PROJECT_DIR$/src/sword_offer/code29_最小的K个数/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" selection-start-line="2" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sword_offer/code24_二叉树中和为某一值的路径/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -99,15 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列/Solution2_记忆化搜索.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列/Solution3_动态规划.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/跳台阶/Solution2_记忆化搜索.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/跳台阶/Solution.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/跳台阶/Solution1_递归方法.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/斐波那契数列/Solution1_递归方法.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/变态跳台阶/Solution.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/变态跳台阶/Solution_递归方式.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code10_斐波那契数列系列/矩形覆盖/Solution.java" />
         <option value="$PROJECT_DIR$/src/sword_offer/code15_二进制中1的个数/Solution.java" />
         <option value="$PROJECT_DIR$/src/sword_offer/code16_数值的整数次方/Solution.java" />
         <option value="$PROJECT_DIR$/src/sword_offer/code21_调整数组顺序使奇数位于偶数前面/Solution.java" />
@@ -150,6 +129,15 @@
         <option value="$PROJECT_DIR$/src/sword_offer/code24_二叉树中和为某一值的路径/Solution.java" />
         <option value="$PROJECT_DIR$/src/sword_offer/code25_复杂链表的复制/RandomListNode.java" />
         <option value="$PROJECT_DIR$/src/sword_offer/code25_复杂链表的复制/Solution.java" />
+        <option value="$PROJECT_DIR$/src/sword_offer/code29_最小的K个数/Solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/code46_permutations/Solution.java" />
+        <option value="$PROJECT_DIR$/src/sword_offer/code27_字符串的排列/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/sword_offer/code27_字符串的排列/Solution.java" />
+        <option value="$PROJECT_DIR$/src/sword_offer/code28_数组中出现次数超过一半的数字/Solution.java" />
+        <option value="$PROJECT_DIR$/src/sword_offer/code30_连续子数组的最大和/Solution.java" />
+        <option value="$PROJECT_DIR$/src/sword_offer/code26_二叉搜索树与双向链表/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/sword_offer/code26_二叉搜索树与双向链表/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/sword_offer/code26_二叉搜索树与双向链表/Solution.java" />
       </list>
     </option>
   </component>
@@ -178,6 +166,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,13 +190,20 @@
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sword_offer" type="462c0819:PsiDirectoryNode" />
-              <item name="code25_复杂链表的复制" type="462c0819:PsiDirectoryNode" />
+              <item name="code29_最小的K个数" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sword_offer" type="462c0819:PsiDirectoryNode" />
+              <item name="code29_最小的K个数" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -254,58 +250,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
-    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.code_20180830_拼多多正式.Main4" />
-      <module name="interview_code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.code_20180830_拼多多正式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sword_offer.code22_从上往下打印二叉树.Solution" />
+      <option name="MAIN_CLASS_NAME" value="sword_offer.code28_数组中出现次数超过一半的数字.Solution" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sword_offer.code22_从上往下打印二叉树.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sword_offer.code24_二叉树中和为某一值的路径.Solution" />
-      <module name="interview_code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sword_offer.code24_二叉树中和为某一值的路径.*" />
+          <option name="PATTERN" value="sword_offer.code28_数组中出现次数超过一半的数字.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sword_offer.code21_栈的压入和弹出序列.Solution" />
+      <option name="MAIN_CLASS_NAME" value="sword_offer.code27_字符串的排列.Solution" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sword_offer.code21_栈的压入和弹出序列.*" />
+          <option name="PATTERN" value="sword_offer.code27_字符串的排列.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sword_offer.code29_最小的K个数.Solution" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sword_offer.code29_最小的K个数.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sword_offer.code23_二叉搜索树的后序遍历序列.Solution" />
+      <option name="MAIN_CLASS_NAME" value="sword_offer.code30_连续子数组的最大和.Solution" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sword_offer.code23_二叉搜索树的后序遍历序列.*" />
+          <option name="PATTERN" value="sword_offer.code30_连续子数组的最大和.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sword_offer.code27_字符串的排列.Solution2" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sword_offer.code27_字符串的排列.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,19 +403,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Main4" />
+      <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution2" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -500,6 +496,7 @@
       <workItem from="1535616142584" duration="612000" />
       <workItem from="1535622123074" duration="9338000" />
       <workItem from="1535716460258" duration="3812000" />
+      <workItem from="1535886815483" duration="8052000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -512,7 +509,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="284089000" />
+    <option name="totallyTimeSpent" value="292141000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -535,10 +532,10 @@
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.19068256" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.20476706" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32827735" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27292112" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2761194" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -556,7 +553,6 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25479743" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
@@ -567,6 +563,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.24593717" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -577,7 +574,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50319827" side_tool="true" weight="0.25785482" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.26435536" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -599,57 +596,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code14_链表中倒数第k个结点/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="24" selection-start-line="24" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code14_链表中倒数第k个结点/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code15_反转链表/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/standard/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code15_反转链表/PrintListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code15_反转链表/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/utils/PrintListNode.java" />
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code16_合并两个排序的链表/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/interview_code/sword_offer/code24_反转链表/ListNode.class" />
     <entry file="file://$PROJECT_DIR$/out/production/interview_code/sword_offer/code24_反转链表/PrintListNode.class" />
     <entry file="file://$PROJECT_DIR$/out/production/interview_code/sword_offer/code24_反转链表/Solution.class" />
     <entry file="file://$PROJECT_DIR$/src/sword_offer/code16_合并两个排序的链表/PrintListNode.java">
@@ -778,13 +724,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/code46_permutations/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="60" column="25" lean-forward="true" selection-start-line="60" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/code17_letter_combinations_of_a_phone_number/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="466">
@@ -817,9 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -845,9 +781,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code21_栈的压入、弹出序列/Solution.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code21_栈的压入、弹出序列/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/sword_offer/code21_栈的压入和弹出序列/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -889,13 +823,6 @@
     <entry file="file://$PROJECT_DIR$/src/sword_offer/code24_二叉树中和为某一值的路径/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code24_二叉树中和为某一值的路径/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sword_offer/code25_复杂链表的复制/RandomListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -905,8 +832,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sword_offer/code25_复杂链表的复制/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="133">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code24_二叉树中和为某一值的路径/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="3" column="16" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code27_字符串的排列/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/code46_permutations/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="61" column="1" lean-forward="true" selection-start-line="11" selection-end-line="61" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code28_数组中出现次数超过一半的数字/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code27_字符串的排列/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code27_字符串的排列/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="46" column="1" lean-forward="true" selection-start-line="1" selection-end-line="46" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1209#1210#0" expanded="true" />
+            <element signature="e#1278#1279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code30_连续子数组的最大和/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code26_二叉搜索树与双向链表/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code26_二叉搜索树与双向链表/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code26_二叉搜索树与双向链表/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_offer/code29_最小的K个数/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

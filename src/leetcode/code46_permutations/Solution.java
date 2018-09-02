@@ -29,7 +29,6 @@ class Solution {
     }
 
     private void generatePermutation(int[] nums, int index, LinkedList<Integer> p) {
-
         if (index == nums.length) {
             res.add((List<Integer>) p.clone());
             return;
@@ -45,9 +44,7 @@ class Solution {
                 used[i] = false;
             }
         }
-
         return;
-
     }
 
     private static void printList(List<Integer> list) {
