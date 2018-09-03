@@ -6,42 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
-      <change afterPath="$PROJECT_DIR$/interview/20180903 贝壳找房.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/assets/1535969694010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/assets/1535972447443.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0903_贝壳找房/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0903_贝壳找房/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0903_贝壳找房/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0903_贝壳找房/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0903_贝壳找房/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0903_贝壳找房/input3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/template2/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/template2/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/template2/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/template2/input2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0805_拼多多内推/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0805_拼多多内推/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0805_拼多多内推/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0805_拼多多内推/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0805_拼多多内推/input1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/input2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0805_拼多多内推/input2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180805_拼多多内推/input4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0805_拼多多内推/input4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0809_网易游戏内推/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0809_网易游戏内推/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0809_网易游戏内推/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0809_网易游戏内推/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0809_网易游戏内推/input1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/input2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0809_网易游戏内推/input2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/input3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0809_网易游戏内推/input3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180809_网易游戏内推/input4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0809_网易游戏内推/input4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0830_拼多多正式/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0830_拼多多正式/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0830_拼多多正式/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0830_拼多多正式/input1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0830_拼多多正式/input2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0830_拼多多正式/input3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/input4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0830_拼多多正式/input4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/20180903 贝壳找房.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview/20180903 贝壳找房.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,38 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/interview/code_0903_贝壳找房/Main2.java">
+      <file leaf-file-name="input3.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/interview/code_0903_贝壳找房/input3.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interview/code_0903_贝壳找房/Main3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="41" column="49" selection-end-line="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interview/code_0903_贝壳找房/Main1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="25" lean-forward="true" selection-end-line="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -224,29 +163,6 @@
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="code_0903_贝壳找房" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="code_0903_贝壳找房" type="462c0819:PsiDirectoryNode" />
-              <item name="Main2" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="code_0903_贝壳找房" type="462c0819:PsiDirectoryNode" />
-              <item name="Main3" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -545,7 +461,7 @@
       <workItem from="1535622123074" duration="9338000" />
       <workItem from="1535716460258" duration="3812000" />
       <workItem from="1535886815483" duration="9415000" />
-      <workItem from="1535969635115" duration="6946000" />
+      <workItem from="1535969635115" duration="7596000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -558,7 +474,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="300450000" />
+    <option name="totallyTimeSpent" value="301100000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -581,7 +497,7 @@
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.17768148" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.17768148" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32827735" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
@@ -925,13 +841,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0903_贝壳找房/input3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/code_0903_贝壳找房/input2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -966,6 +875,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0903_贝壳找房/input3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
