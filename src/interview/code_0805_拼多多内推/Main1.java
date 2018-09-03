@@ -1,4 +1,4 @@
-package interview.code_20180805_拼多多内推;
+package interview.code_0805_拼多多内推;
 
 
 import java.io.FileNotFoundException;
@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Main1 {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner in = new Scanner(System.in);
-//        Scanner in = new Scanner(new BufferedReader(new FileReader("D:\\gitdoc\\interview_code\\src\\interview\\code_20180805_拼多多内推\\input2.txt")));
+//        Scanner in = new Scanner(new BufferedReader(new FileReader("D:\\gitdoc\\interview_code\\src\\interview\\code_0805_拼多多内推\\input2.txt")));
 
         String str = in.nextLine();
         int size = str.length();

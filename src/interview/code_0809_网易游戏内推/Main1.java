@@ -1,4 +1,4 @@
-package interview.code_20180809_网易游戏内推;
+package interview.code_0809_网易游戏内推;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Main1 {
     public static void main(String[] args) throws FileNotFoundException {
         //        Scanner in = new Scanner(System.in);
-        Scanner in = new Scanner(new BufferedReader(new FileReader("D:\\gitdoc\\interview_code\\src\\interview\\code_20180809_网易游戏内推\\input1.txt")));
+        Scanner in = new Scanner(new BufferedReader(new FileReader("D:\\gitdoc\\interview_code\\src\\interview\\code_0809_网易游戏内推\\input1.txt")));
         int n = in.nextInt();
         int[] arr = new int[n];
         for (int i = 0; i < n; i++) {
