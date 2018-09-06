@@ -6,9 +6,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0905_华为/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0905_华为/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0905_华为/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0906_美团/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0906_美团/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0906_美团/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0906_美团/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0906_美团/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0906_美团/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0906_美团/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0906_美团/input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0906_美团/input4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0906_美团/input5.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,27 +30,31 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interview/code_0905_华为/Main2.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="input4.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/input4.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="input5.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/input5.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Main4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/Main4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="11" column="132" selection-start-line="11" selection-start-column="132" selection-end-line="11" selection-end-column="132" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/interview/code_0905_华为/Main.java">
+      <file leaf-file-name="Main5.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/Main5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="11" column="132" selection-start-line="11" selection-start-column="132" selection-end-line="11" selection-end-column="132" />
             </state>
           </provider>
         </entry>
@@ -85,11 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sword_offer/standard/TreeNodePrint.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code27_二叉树的镜像/TreeNodePrint.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code27_二叉树的镜像/Solution.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code29_顺时针打印矩阵/Solution.java" />
-        <option value="$PROJECT_DIR$/src/sword_offer/code19_顺时针打印矩阵/Solution.java" />
         <option value="$PROJECT_DIR$/src/sword_offer/code20_包含min函数的栈/Solution.java" />
         <option value="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution2.java" />
         <option value="$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution3.java" />
@@ -136,6 +142,11 @@
         <option value="$PROJECT_DIR$/src/interview/code_0905_华为/input2.txt" />
         <option value="$PROJECT_DIR$/src/interview/code_0905_华为/Main2.java" />
         <option value="$PROJECT_DIR$/src/interview/code_0905_华为/Main.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0906_美团/Main1.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0906_美团/Main2.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0906_美团/Main3.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0906_美团/Main4.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0906_美团/Main5.java" />
       </list>
     </option>
   </component>
@@ -163,7 +174,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,30 +197,15 @@
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="code_0905_华为" type="462c0819:PsiDirectoryNode" />
+              <item name="code_0906_美团" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="code_0905_华为" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="code_0905_华为" type="462c0819:PsiDirectoryNode" />
-              <item name="Main2" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="template2" type="462c0819:PsiDirectoryNode" />
+              <item name="code_0906_美团" type="462c0819:PsiDirectoryNode" />
+              <item name="Main5" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
@@ -260,6 +255,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -276,22 +272,22 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\gitdoc\interview_code\src\training\hw2019" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="interview.code_0905_华为" />
-      <recent name="interview.code_0905_huawe" />
-      <recent name="interview.code_0904_携程" />
-      <recent name="interview.code_0903_贝壳找房" />
-      <recent name="sword_offer.code22_从上往下打印二叉树" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitdoc\interview_code\src\interview\code_0906_美团" />
       <recent name="D:\gitdoc\interview_code\src\interview\code_0905_huawe" />
       <recent name="D:\gitdoc\interview_code\src\interview\code_0904_携程" />
       <recent name="D:\gitdoc\interview_code\src\interview\code_0903_贝壳找房" />
       <recent name="D:\gitdoc\interview_code\src\interview\两题模板" />
-      <recent name="D:\gitdoc\interview_code\src\interview\wygame_20180809" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="interview.code_0906_美团" />
+      <recent name="interview.code_0905_华为" />
+      <recent name="interview.code_0905_huawe" />
+      <recent name="interview.code_0904_携程" />
+      <recent name="interview.code_0903_贝壳找房" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gitdoc\interview_code\src\training\hw2019" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -306,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2 (2)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interview.code_0904_携程.Main1" />
       <module name="interview_code" />
@@ -459,15 +455,14 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Main1 (1)" />
       <item itemvalue="Application.Main2 (1)" />
       <item itemvalue="Application.Main3 (1)" />
-      <item itemvalue="Application.Main2 (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2 (2)" />
         <item itemvalue="Application.Main3 (1)" />
         <item itemvalue="Application.Main2 (1)" />
         <item itemvalue="Application.Main1 (1)" />
@@ -555,7 +550,8 @@
       <workItem from="1535886815483" duration="9415000" />
       <workItem from="1535969635115" duration="7596000" />
       <workItem from="1536057745172" duration="6493000" />
-      <workItem from="1536145650307" duration="765000" />
+      <workItem from="1536145650307" duration="898000" />
+      <workItem from="1536231272706" duration="241000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -568,7 +564,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="308358000" />
+    <option name="totallyTimeSpent" value="308732000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -585,18 +581,16 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.23076923" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50319827" side_tool="true" weight="0.25785482" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.31419286" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.31419286" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32827735" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19402985" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -609,9 +603,12 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.23076923" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25479743" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.24593717" />
@@ -620,20 +617,19 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32900432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28602383" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50319827" side_tool="true" weight="0.25785482" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.26435536" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -655,64 +651,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0830_拼多多正式/input2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/code17_letter_combinations_of_a_phone_number/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/code17_letter_combinations_of_a_phone_number/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="47" column="40" lean-forward="true" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/code77_combinations/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="23" selection-start-line="16" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_20180830_拼多多正式/Solution3.java" />
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0830_拼多多正式/input4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0830_拼多多正式/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0830_拼多多正式/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code21_栈的压入、弹出序列/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/sword_offer/code21_栈的压入和弹出序列/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sword_offer/standard/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -970,8 +908,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/code_0905_华为/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        <state relative-caret-position="623">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -981,10 +919,63 @@
     <entry file="file://$PROJECT_DIR$/src/interview/code_0905_华为/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/input2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="136" selection-start-line="11" selection-start-column="136" selection-end-line="11" selection-end-column="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/input1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/input3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/input4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="132" selection-start-line="11" selection-start-column="132" selection-end-line="11" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/input5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0906_美团/Main5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="132" selection-start-line="11" selection-start-column="132" selection-end-line="11" selection-end-column="132" />
         </state>
       </provider>
     </entry>
