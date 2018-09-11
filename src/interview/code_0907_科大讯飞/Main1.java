@@ -68,5 +68,5 @@ public class Main1 {
         }
         return sum / (double) list.size();
     }
-    
+
 }
