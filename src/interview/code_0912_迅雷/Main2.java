@@ -7,9 +7,14 @@ import java.util.Scanner;
 
 public class Main2 {
 
+
     public static void main(String[] args) throws FileNotFoundException {
 //        Scanner in = new Scanner(System.in);
-        Scanner in = new Scanner(new BufferedReader(new FileReader("")));
+        Scanner in = new Scanner(new BufferedReader(new FileReader("D:\\gitdoc\\interview_code\\src\\interview\\code_0912_迅雷\\input2.txt")));
+        int A = in.nextInt(); // >0
+        int B = in.nextInt(); // <0
+
+
 
 
     }

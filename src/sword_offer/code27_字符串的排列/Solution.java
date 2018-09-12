@@ -24,7 +24,7 @@ public class Solution {
     // 向这个排列的末尾添加第 index 个元素, 获得一个有 index 个元素的排列
     private void generatePermutation(String str, int index, StringBuilder p) {
         if (index == str.length()) {
-            if(!res.contains(p.toString())){
+            if (!res.contains(p.toString())) {
                 res.add(p.toString());
             }
             return;
@@ -42,6 +42,6 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        System.out.println(new Solution().Permutation("aa"));
+        System.out.println(new Solution().Permutation("ABABAB"));
     }
 }
