@@ -6,10 +6,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
-      <change beforePath="$PROJECT_DIR$/interview/20180912 迅雷.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview/20180912 迅雷.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_0912_迅雷/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0912_迅雷/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/code_0912_迅雷/input2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/code_0912_迅雷/input2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_offer/code27_字符串的排列/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_offer/code27_字符串的排列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort_normal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/UsingArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/input4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/input5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort2Ways.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort2Ways.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,43 +38,12 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="input2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/input2.txt">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="QuickSort_normal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort_normal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/Main2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sword_offer/code27_字符串的排列/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="44" column="53" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="53" />
-              <folding>
-                <element signature="e#1208#1209#0" expanded="true" />
-                <element signature="e#1276#1277#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/code46_permutations/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="12" column="19" selection-start-line="12" selection-end-line="13" />
+            <state relative-caret-position="558">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -107,10 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/interview/code_0903_贝壳找房/input3.txt" />
-        <option value="$PROJECT_DIR$/src/interview/code_0903_贝壳找房/Main3.java" />
-        <option value="$PROJECT_DIR$/src/interview/code_0903_贝壳找房/input2.txt" />
-        <option value="$PROJECT_DIR$/src/interview/code_0903_贝壳找房/Main2.java" />
         <option value="$PROJECT_DIR$/src/interview/code_0903_贝壳找房/Main1.java" />
         <option value="$PROJECT_DIR$/src/interview/code_0904_携程/input1.txt" />
         <option value="$PROJECT_DIR$/src/interview/code_0904_携程/Main1.java" />
@@ -158,6 +133,10 @@
         <option value="$PROJECT_DIR$/src/interview/code_0912_迅雷/input2.txt" />
         <option value="$PROJECT_DIR$/src/sword_offer/code27_字符串的排列/Solution.java" />
         <option value="$PROJECT_DIR$/src/interview/code_0912_迅雷/Main2.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0913_vivo/Main1.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0913_vivo/UsingArrayList.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort2Ways.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort_normal.java" />
       </list>
     </option>
   </component>
@@ -171,8 +150,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="36" />
-    <option name="y" value="459" />
+    <option name="x" value="-35" />
+    <option name="y" value="464" />
     <option name="width" value="1918" />
     <option name="height" value="1038" />
   </component>
@@ -203,43 +182,94 @@
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="quick_sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="quick_sort" type="462c0819:PsiDirectoryNode" />
+              <item name="QuickSort2Ways" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="quick_sort" type="462c0819:PsiDirectoryNode" />
+              <item name="QuickSort_normal" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="code_0912_迅雷" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="code_0912_迅雷" type="462c0819:PsiDirectoryNode" />
-              <item name="Main2" type="1a9f42e2:ClassTreeNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sword_offer" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sword_offer" type="462c0819:PsiDirectoryNode" />
-              <item name="code27_字符串的排列" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sword_offer" type="462c0819:PsiDirectoryNode" />
-              <item name="code27_字符串的排列" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution" type="1a9f42e2:ClassTreeNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="List" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -261,8 +291,12 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\gitdoc\interview_code\src\training\hw2019" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitdoc\interview_code\src\interview\code_0913_vivo" />
+      <recent name="D:\gitdoc\interview_code\src\interview\code_0912_迅雷" />
+      <recent name="D:\gitdoc\interview_code\src\interview\template5" />
+      <recent name="D:\gitdoc\interview_code\src\interview\template4" />
+      <recent name="D:\gitdoc\interview_code\src\interview\template3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="interview.template5" />
@@ -271,12 +305,8 @@
       <recent name="interview.code_0906_美团" />
       <recent name="interview.code_0905_华为" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\gitdoc\interview_code\src\interview\code_0912_迅雷" />
-      <recent name="D:\gitdoc\interview_code\src\interview\template5" />
-      <recent name="D:\gitdoc\interview_code\src\interview\template4" />
-      <recent name="D:\gitdoc\interview_code\src\interview\template3" />
-      <recent name="D:\gitdoc\interview_code\src\interview\code_0911_百度" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gitdoc\interview_code\src\training\hw2019" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -291,29 +321,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="Main1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.code_0909_京东.Main1" />
-      <module name="interview_code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.code_0909_京东.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.code_0912_迅雷.Main1" />
-      <module name="interview_code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.code_0912_迅雷.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.QuickSort_normal">
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interview.code_0912_迅雷.Main2" />
       <module name="interview_code" />
@@ -321,6 +329,28 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interview.code_0912_迅雷.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="QuickSort2Ways" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.sort.quick_sort.QuickSort2Ways" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.sort.quick_sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="QuickSort_normal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.sort.quick_sort.QuickSort_normal" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.sort.quick_sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,13 +366,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Source" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.code_0912_迅雷.Source" />
+    <configuration name="UsingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.code_0913_vivo.UsingArrayList" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.code_0912_迅雷.*" />
+          <option name="PATTERN" value="interview.code_0913_vivo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,19 +419,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Main1 (2)" />
-      <item itemvalue="Application.Main1" />
-      <item itemvalue="Application.Source" />
       <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.UsingArrayList" />
+      <item itemvalue="Application.QuickSort_normal" />
+      <item itemvalue="Application.QuickSort2Ways" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort_normal" />
+        <item itemvalue="Application.QuickSort2Ways" />
+        <item itemvalue="Application.UsingArrayList" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.Source" />
-        <item itemvalue="Application.Main1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +521,9 @@
       <workItem from="1536371573617" duration="7894000" />
       <workItem from="1536485107159" duration="6918000" />
       <workItem from="1536662357230" duration="5159000" />
-      <workItem from="1536748923232" duration="5705000" />
+      <workItem from="1536748923232" duration="6307000" />
+      <workItem from="1536836151374" duration="2427000" />
+      <workItem from="1536893679042" duration="4018000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -504,7 +536,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350441000" />
+    <option name="totallyTimeSpent" value="357488000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -527,10 +559,10 @@
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.3336945" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.27843988" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32827735" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20788912" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -564,70 +596,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0909_京东/input3.txt" />
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0909_京东/Main3.java" />
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0909_京东/input2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0909_京东/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0909_京东/input1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template2/input1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0911_百度/input3.txt" />
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0909_京东/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0911_百度/input2.txt" />
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0911_百度/input1.txt" />
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0911_百度/Main2.java" />
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0911_百度/Main3.java" />
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0911_百度/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/2018拼多多校园招聘.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="133">
-            <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template3/Main1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template3/Main2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/template3/input2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -714,36 +682,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/input4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/input5.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/Main5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/input3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/input4.txt" />
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/input5.txt" />
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/Main3.java" />
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/Main4.java" />
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/Main5.java" />
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/input3.txt" />
     <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/Source.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -762,11 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#890#891#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -788,10 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
           <caret line="44" column="53" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="53" />
-          <folding>
-            <element signature="e#1208#1209#0" expanded="true" />
-            <element signature="e#1276#1277#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,6 +734,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0913_vivo/Main3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0913_vivo/Main5.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0913_vivo/Main4.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0913_vivo/Main2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0913_vivo/input3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0913_vivo/input1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0913_vivo/input5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0913_vivo/input4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0913_vivo/input2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0913_vivo/UsingArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="36" column="41" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0913_vivo/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="478" column="21" selection-start-line="478" selection-start-column="21" selection-end-line="478" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="140" column="15" selection-start-line="140" selection-start-column="15" selection-end-line="140" selection-end-column="15" />
+          <folding>
+            <element signature="e#5644#5645#0" expanded="true" />
+            <element signature="e#5675#5676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort2Ways.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort_normal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
