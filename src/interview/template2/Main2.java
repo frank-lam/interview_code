@@ -1,17 +1,17 @@
 package interview.template2;
 
-import java.io.BufferedReader;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.util.Scanner;
 
 public class Main2 {
+    public static int a = 0;
 
-    public static void main(String[] args) throws FileNotFoundException {
-//        Scanner in = new Scanner(System.in);
-        Scanner in = new Scanner(new BufferedReader(new FileReader("")));
+    public void main(String[] args) throws FileNotFoundException {
+        System.out.println((Integer)null);
+
 
 
     }
+
+
 
 }

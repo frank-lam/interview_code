@@ -6,20 +6,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="440446d8-d8f0-4d59-90db-c18cbce880fe" name="Default" comment="测试提交修改">
-      <change afterPath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort_normal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/UsingArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/input3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/input4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/code_0913_vivo/input5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_搜狐畅游/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_搜狐畅游/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_海康/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_海康/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_海康/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_海康/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_海康/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_海康/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_海康/input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_海康/input4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_海康/input5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_爱奇艺/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_爱奇艺/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_爱奇艺/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/code_0915_爱奇艺/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/template2/Check.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort2Ways.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort2Ways.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/template2/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/template2/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/template2/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/template2/Main2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,12 +43,21 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QuickSort_normal.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort_normal.java">
+    <leaf>
+      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interview/template2/Main1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="247">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Check.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/interview/template2/Check.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="50" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="26" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -75,6 +89,7 @@
       <find>setInit</find>
       <find>useList</find>
       <find>nextInt()</find>
+      <find>describe</find>
     </findStrings>
     <dirStrings>
       <dir>D:\gitdoc\interview_code\src\leetcode\code292_nim_game</dir>
@@ -86,18 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/interview/code_0903_贝壳找房/Main1.java" />
-        <option value="$PROJECT_DIR$/src/interview/code_0904_携程/input1.txt" />
-        <option value="$PROJECT_DIR$/src/interview/code_0904_携程/Main1.java" />
-        <option value="$PROJECT_DIR$/src/interview/code_0904_携程/input2.txt" />
-        <option value="$PROJECT_DIR$/src/interview/code_0904_携程/Main2.java" />
-        <option value="$PROJECT_DIR$/src/interview/code_0904_携程/input3.txt" />
-        <option value="$PROJECT_DIR$/src/interview/code_0904_携程/Main3.java" />
-        <option value="$PROJECT_DIR$/src/interview/code_0905_huawe/input2.txt" />
-        <option value="$PROJECT_DIR$/src/interview/code_0905_huawe/Main2.java" />
-        <option value="$PROJECT_DIR$/src/interview/code_0905_华为/input2.txt" />
-        <option value="$PROJECT_DIR$/src/interview/code_0905_华为/Main2.java" />
-        <option value="$PROJECT_DIR$/src/interview/code_0905_华为/Main.java" />
         <option value="$PROJECT_DIR$/src/interview/code_0906_美团/Main3.java" />
         <option value="$PROJECT_DIR$/src/interview/code_0906_美团/Main4.java" />
         <option value="$PROJECT_DIR$/src/interview/code_0906_美团/Main5.java" />
@@ -118,7 +121,6 @@
         <option value="$PROJECT_DIR$/src/interview/code_0908_网易互联网/template2/input1.txt" />
         <option value="$PROJECT_DIR$/src/interview/code_0908_网易互联网/template2/Main2.java" />
         <option value="$PROJECT_DIR$/src/interview/code_0908_网易互联网/template2/Main3.java" />
-        <option value="$PROJECT_DIR$/src/interview/template2/Main1.java" />
         <option value="$PROJECT_DIR$/src/interview/code_0909_京东/Main3.java" />
         <option value="$PROJECT_DIR$/src/interview/code_0909_京东/input2.txt" />
         <option value="$PROJECT_DIR$/src/interview/code_0909_京东/input1.txt" />
@@ -137,6 +139,19 @@
         <option value="$PROJECT_DIR$/src/interview/code_0913_vivo/UsingArrayList.java" />
         <option value="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort2Ways.java" />
         <option value="$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort_normal.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0915/Main3.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0915/Alpha.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0915/Main1.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0915/Main2.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0915/input2.txt" />
+        <option value="$PROJECT_DIR$/src/interview/code_0915/input1.txt" />
+        <option value="$PROJECT_DIR$/src/interview/code_0915_海康/Main5.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0915_搜狐畅游/input1.txt" />
+        <option value="$PROJECT_DIR$/src/interview/code_0915_搜狐畅游/Main1.java" />
+        <option value="$PROJECT_DIR$/src/interview/template2/Main2.java" />
+        <option value="$PROJECT_DIR$/src/interview/template2/Main1.java" />
+        <option value="$PROJECT_DIR$/src/interview/code_0915_爱奇艺/Main1.java" />
+        <option value="$PROJECT_DIR$/src/interview/template2/Check.java" />
       </list>
     </option>
   </component>
@@ -150,10 +165,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-35" />
-    <option name="y" value="464" />
-    <option name="width" value="1918" />
-    <option name="height" value="1038" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -165,7 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,100 +195,67 @@
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="quick_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="quick_sort" type="462c0819:PsiDirectoryNode" />
-              <item name="QuickSort2Ways" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="quick_sort" type="462c0819:PsiDirectoryNode" />
-              <item name="QuickSort_normal" type="1a9f42e2:ClassTreeNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="code_0915_海康" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="code_0915_海康" type="462c0819:PsiDirectoryNode" />
+              <item name="Main3" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="template2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="template2" type="462c0819:PsiDirectoryNode" />
+              <item name="Check" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="template2" type="462c0819:PsiDirectoryNode" />
+              <item name="Main1" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="template2" type="462c0819:PsiDirectoryNode" />
+              <item name="Main2" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="1a9f42e2:ClassTreeNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="template5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,12 +271,8 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\gitdoc\interview_code\src\interview\code_0913_vivo" />
-      <recent name="D:\gitdoc\interview_code\src\interview\code_0912_迅雷" />
-      <recent name="D:\gitdoc\interview_code\src\interview\template5" />
-      <recent name="D:\gitdoc\interview_code\src\interview\template4" />
-      <recent name="D:\gitdoc\interview_code\src\interview\template3" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gitdoc\interview_code\src\training\hw2019" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="interview.template5" />
@@ -305,8 +281,12 @@
       <recent name="interview.code_0906_美团" />
       <recent name="interview.code_0905_华为" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\gitdoc\interview_code\src\training\hw2019" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitdoc\interview_code\src\interview\code_0915_搜狐畅游" />
+      <recent name="D:\gitdoc\interview_code\src\interview\code_0915_海康" />
+      <recent name="D:\gitdoc\interview_code\src\interview\code_0915" />
+      <recent name="D:\gitdoc\interview_code\src\interview\code_0913_vivo" />
+      <recent name="D:\gitdoc\interview_code\src\interview\code_0912_迅雷" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -321,58 +301,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuickSort_normal">
+  <component name="RunManager" selected="Application.Check">
+    <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.template2.Check" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.template2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.code_0915_搜狐畅游.Main1" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.code_0915_搜狐畅游.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.template2.Main1" />
+      <module name="interview_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.template2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.code_0912_迅雷.Main2" />
+      <option name="MAIN_CLASS_NAME" value="interview.code_0915_爱奇艺.Main2" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.code_0912_迅雷.*" />
+          <option name="PATTERN" value="interview.code_0915_爱奇艺.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="QuickSort2Ways" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.sort.quick_sort.QuickSort2Ways" />
+    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.code_0915_海康.Main5" />
       <module name="interview_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.sort.quick_sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="QuickSort_normal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.sort.quick_sort.QuickSort_normal" />
-      <module name="interview_code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_structure.sort.quick_sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sword_offer.code27_字符串的排列.Solution" />
-      <module name="interview_code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sword_offer.code27_字符串的排列.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="UsingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.code_0913_vivo.UsingArrayList" />
-      <module name="interview_code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.code_0913_vivo.*" />
+          <option name="PATTERN" value="interview.code_0915_海康.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,18 +400,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main2" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.UsingArrayList" />
-      <item itemvalue="Application.QuickSort_normal" />
-      <item itemvalue="Application.QuickSort2Ways" />
+      <item itemvalue="Application.Main5" />
+      <item itemvalue="Application.Main1 (1)" />
+      <item itemvalue="Application.Main1 (2)" />
+      <item itemvalue="Application.Check" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSort_normal" />
-        <item itemvalue="Application.QuickSort2Ways" />
-        <item itemvalue="Application.UsingArrayList" />
+        <item itemvalue="Application.Check" />
+        <item itemvalue="Application.Main1 (2)" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main1 (1)" />
+        <item itemvalue="Application.Main5" />
       </list>
     </recent_temporary>
   </component>
@@ -524,6 +504,10 @@
       <workItem from="1536748923232" duration="6307000" />
       <workItem from="1536836151374" duration="2427000" />
       <workItem from="1536893679042" duration="4018000" />
+      <workItem from="1536976809929" duration="6561000" />
+      <workItem from="1536994700692" duration="1429000" />
+      <workItem from="1537008801490" duration="3460000" />
+      <workItem from="1537016292695" duration="2634000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交修改">
       <created>1529584816771</created>
@@ -536,7 +520,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="357488000" />
+    <option name="totallyTimeSpent" value="371572000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -553,18 +537,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.23076923" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.2295345" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50319827" side_tool="true" weight="0.25785482" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.38244852" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.27843988" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.30119178" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32827735" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20788912" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.89167976" visible="true" weight="0.14392324" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.10832025" side_tool="true" weight="0.10341151" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -596,96 +580,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/interview/template3/input2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template3/input3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template3/input1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template3/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template4/Main2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template4/Main1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template4/input2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template4/input1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template4/input3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template4/input4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template4/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template4/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template5/Main3.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template5/Main1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template5/Main2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template5/input2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template5/input3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template5/input1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template5/input4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template5/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template5/input5.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/template5/Main5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/input4.txt" />
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/input5.txt" />
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/Main3.java" />
-    <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/Main4.java" />
     <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/Main5.java" />
     <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/input3.txt" />
     <entry file="file://$PROJECT_DIR$/src/interview/code_0912_迅雷/Source.java">
@@ -796,10 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="140" column="15" selection-start-line="140" selection-start-column="15" selection-end-line="140" selection-end-column="15" />
-          <folding>
-            <element signature="e#5644#5645#0" expanded="true" />
-            <element signature="e#5675#5676#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -812,8 +702,135 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_structure/sort/quick_sort/QuickSort_normal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="624">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915/Alpha.java" />
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915/input3.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="863" selection-start-line="863" selection-end-line="863" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_爱奇艺/input2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_爱奇艺/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_爱奇艺/input1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_海康/Main4.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_海康/input2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_海康/input5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_海康/input4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_海康/input3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_海康/Main5.java" />
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_搜狐畅游/Main2.java" />
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_搜狐畅游/input2.txt" />
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_海康/input1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_搜狐畅游/input1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_搜狐畅游/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_海康/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_海康/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_海康/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/template2/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/template5/input3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/code_0915_爱奇艺/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/template2/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/template2/Check.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="50" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="26" selection-end-column="50" />
         </state>
       </provider>
     </entry>
